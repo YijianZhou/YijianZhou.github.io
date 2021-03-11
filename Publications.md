@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Publications" 
-permalink: //publications//
+permalink: /publications/
 ---
+### Publications
 
 Zhou, Y., Yue, H., Kong, Q., Zhou, S. (2019). Hybrid Event Detection and Phase‐Picking Algorithm Using Convolutional and Recurrent Neural Networks. Seismological Research Letters; 90 (3): 1079–1087. doi: https://doi.org/10.1785/0220180319 
 
