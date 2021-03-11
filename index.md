@@ -1,4 +1,4 @@
-## Welcome to Yijian Zhou's HomePage
+## About me:
 
 I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. A set of detection and location codes can be found on [my GitHub](https://github.com/YijianZhou)
 
