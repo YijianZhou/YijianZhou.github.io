@@ -1,8 +1,8 @@
 ## Welcome to Yijian Zhou's HomePage
 
-I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. A set of detection and location codes can be found on [my GitHub] (https://github.com/YijianZhou)
+I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. A set of detection and location codes can be found on [my GitHub](https://github.com/YijianZhou)
 
-Currently, I am chasing my Ph.D. degree in UC, Riverside, under the supervision of [Abhijit Ghosh] (http://faculty.ucr.edu/~aghosh/)
+Currently, I am chasing my Ph.D. degree in UC, Riverside, under the supervision of [Abhijit Ghosh](http://faculty.ucr.edu/~aghosh/)
 
 ### News and Events
 
