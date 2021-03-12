@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Presentations
+## Presentations
 
 Zhou, Y., Yue, H., ZHOU, S., Zhao, L., YANG, Z., & YAO, Y. (2020.10, oral). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Annual Meeting of Chinese Geoscience Union (CGU), Chongqing, China
 
@@ -23,17 +23,20 @@ Zhou, Y., Yue H. & Zhou, S. (2018.05, oral). The detection and phase picking for
 
 Zhou, Y., Huang, Y., Yue, H., Zhou, S., An, S., & Yun, N. (2017.12, poster). CONEDEP: COnvolutional Neural network based Earthquake DEtection and Phase Picking. AGU Fall Meeting, New Orleans, LA, USA
 
+* * *
+## INVITED TALKS
 
-### INVITED TALKS
+### 2019
+Institute of Geophysics, China Earthquake Administration, Beijing, China
 
-Institute of Geophysics, China Earthquake Administration, Beijing, China	2019.10
+Ocean University of China, College of Marine Geoscience, Qingdao, China
 
-Ocean University of China, College of Marine Geoscience, Qingdao, China	2019.07
+### 2018
 
-Institute of Geophysics, China Earthquake Administration, Beijing, China	2018.10
+Institute of Geophysics, China Earthquake Administration, Beijing, China
 
-The Second Monitoring and Application Center, CEA, Xi’an, China	2018.09
+The Second Monitoring and Application Center, CEA, Xi’an, China
 
-Peking University, Beijing, China	2018.04
+Peking University, Beijing, China
 
 [back](./)
