@@ -27,16 +27,12 @@ Zhou, Y., Huang, Y., Yue, H., Zhou, S., An, S., & Yun, N. (2017.12, poster). CON
 ## INVITED TALKS
 
 ### 2019
-Institute of Geophysics, China Earthquake Administration, Beijing, China
-
-Ocean University of China, College of Marine Geoscience, Qingdao, China
+Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
+Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
 
 ### 2018
-
-Institute of Geophysics, China Earthquake Administration, Beijing, China
-
-The Second Monitoring and Application Center, CEA, Xi’an, China
-
-Peking University, Beijing, China
+Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
+The Second Monitoring and Application Center, CEA, Xi’an, China <br>
+Peking University, Beijing, China <br>
 
 [back](./)
