@@ -14,5 +14,7 @@ Yue, H., **Zhou, Y.**, Zhou, S., Huang, Y., Li, M., Zhou, L., & Liu, Z. (2018). 
 
 **Zhou, Y.**, Yue, H., ZHOU, S., Zhao, L., YANG, Z., & YAO, Y. (2021, under review). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Journal of Geophysical Research: Solid Earth
 
+LU, W., **ZHOU, Y.**, ZHAO, Z., YUE, H., ZHOU, S. (2020, under review). Aftershock sequence of the 2017 Mw 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. Journal of Geophysical Research: Solid Earth
+
 
 [back](./)
