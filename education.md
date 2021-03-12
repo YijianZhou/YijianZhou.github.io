@@ -35,21 +35,21 @@ Outstanding Field Work Award (Peking University) <br>
 * * *
 ## TEACHING EXPERIENCE
 
-T.A., Undergraduate, Seismology (20 students), PKU Spring 2019
-T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019
-T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018
-T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018, 2019
-T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017, 2018, 2019
+T.A., Undergraduate, Seismology (20 students), PKU Spring 2019 <br>
+T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019 <br>
+T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018 <br>
+T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018, 2019 <br>
+T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017, 2018, 2019 <br>
 
 
 * * *
 ## FIELD EXPERIENCE
 
-Xiaojiang Fault Zone, deployed 20 broad-band instruments (2016.09)
-Jiuzhaigou aftershock monitoring, deployed 100 short-period instruments (2017.10 & 2018.01)
-Xi’an, North China craton, 21 broad-band instruments (2017.09 & 2018.09)
-Ningxia, China, 24 broad-band instruments (2018.10)
-AnningHe Fault Zone, deployed 100 short-period instruments (2020.07)
+Xiaojiang Fault Zone, deployed 20 broad-band instruments (2016.09) <br>
+Jiuzhaigou aftershock monitoring, deployed 100 short-period instruments (2017.10 & 2018.01) <br>
+Xi’an, North China craton, 21 broad-band instruments (2017.09 & 2018.09) <br>
+Ningxia, China, 24 broad-band instruments (2018.10) <br>
+AnningHe Fault Zone, deployed 100 short-period instruments (2020.07) <br>
 
 
 [back](./)
