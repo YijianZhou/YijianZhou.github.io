@@ -5,17 +5,17 @@ layout: default
 
 ### 2020.09-now, Ph.D. (Geophysics)
 University of California, Riverside.  <br>
-    Advisor: Abhijit Ghosh
+Advisor: Abhijit Ghosh <br>
 
 ### 2017.09-2020.07, M.S. (Geophysics)
 Peking University, Beijing, China.   
-    Advisor: Shiyong ZHOU & Han YUE <br>
-    Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity
+Advisor: Shiyong ZHOU & Han YUE <br>
+Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity <br>
 
 ### 2013.09-2017.07, B.S. (Geophysics) 
 Peking University, Beijing, China
-    Advisor: Shiyong ZHOU <br>
-    Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China
+Advisor: Shiyong ZHOU <br>
+Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China <br>
 
 * * *
 ## AWARDS
