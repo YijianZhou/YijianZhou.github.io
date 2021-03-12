@@ -9,4 +9,9 @@ Yue, H., Zhou, Y., Zhou, S., Huang, Y., Li, M., Zhou, L., & Liu, Z. (2018). The 
 
 Zhou, Y., Zhou, S., & Zhuang, J. (2018). A test on methods for MC estimation based on earthquake catalog, Earth and Planetary Physics, 2, 150-162. doi: https://doi.org/10.26464/epp2018015
 
+### SUBMITTED & REVISION
+
+Zhou, Y., Yue, H., ZHOU, S., Zhao, L., YANG, Z., & YAO, Y. (2021, under review). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Journal of Geophysical Research: Solid Earth
+
+
 [back](./)
