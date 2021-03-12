@@ -5,7 +5,7 @@ I am a geoscientist working on seismicity, fault zone physics, and slow earthqua
 Currently, I am pursuing my Ph.D. degree in UC, Riverside, under the supervision of [Abhijit Ghosh](http://faculty.ucr.edu/~aghosh/)
 
 * * *
-More about me:
+## More about me:
 
 ### [Publications](./publications.html) <br>
 ### [Presentations](./presentations.html) <br>
