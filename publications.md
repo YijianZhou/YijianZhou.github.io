@@ -11,3 +11,4 @@ Yue, H., Zhou, Y., Zhou, S., Huang, Y., Li, M., Zhou, L., & Liu, Z. (2018). The 
 
 Zhou, Y., Zhou, S., & Zhuang, J. (2018). A test on methods for MC estimation based on earthquake catalog, Earth and Planetary Physics, 2, 150-162. doi: https://doi.org/10.26464/epp2018015
 
+[back](./)
