@@ -12,5 +12,5 @@ Currently, I am pursuing my Ph.D. degree in UC, Riverside, under the supervision
 ### [Education](./education.html) <br>
 
 * * *
-### News and Events
+## News and Events
 
