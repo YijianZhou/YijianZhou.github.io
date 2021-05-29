@@ -2,6 +2,7 @@
 layout: default
 ---
 ## Presentations
+**Zhou, Y.**, Ghosh, A., Fang, L., Yue, H., & Zhou, S. (2021.05, invited oral). Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of an AI-based Detection and Location Architecture. The 2nd AI and Earthquake Detection Conference, Qingdao, China
 
 **Zhou, Y.**, Yue, H., ZHOU, S., Zhao, L., YANG, Z., & YAO, Y. (2020.10, oral). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Annual Meeting of Chinese Geoscience Union (CGU), Chongqing, China
 
@@ -28,6 +29,9 @@ Yue, H., Sun, J., Wang, M., Shen, Z., Lu W., **Zhou, Y.**, Xue, L., Ren C., Li, 
 
 ### 2021
 Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
+
+### 2020
+The 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics <br>
 
 ### 2019
 Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
