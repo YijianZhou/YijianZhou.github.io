@@ -26,6 +26,9 @@ Yue, H., Sun, J., Wang, M., Shen, Z., Lu W., **Zhou, Y.**, Xue, L., Ren C., Li, 
 * * *
 ## INVITED TALKS
 
+### 2021
+Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
+
 ### 2019
 Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
 Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
