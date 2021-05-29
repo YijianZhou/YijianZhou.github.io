@@ -2,9 +2,7 @@
 layout: default
 ---
 ## Presentations
-**Zhou, Y.**, Ghosh, A., Fang, L., Yue, H., & Zhou, S. (2021.05, invited oral). Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of an AI-based Detection and Location Architecture. The 2nd AI and Earthquake Detection Conference, Qingdao, China
-
-**Zhou, Y.**, Yue, H., ZHOU, S., Zhao, L., YANG, Z., & YAO, Y. (2020.10, oral). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Annual Meeting of Chinese Geoscience Union (CGU), Chongqing, China
+**Zhou, Y.**, Yue, H., Zhou, S., Zhao, L., YANG, Z., & YAO, Y. (2020.10, oral). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Annual Meeting of Chinese Geoscience Union (CGU), Chongqing, China
 
 **Zhou, Y.**, Yue, H., Zhou, S., Zhao, L., Yang, Z., & Yao, Y. (2020.08). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. Poster Presentation at 2020 SCEC Annual Meeting.
 
