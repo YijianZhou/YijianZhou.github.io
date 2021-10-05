@@ -3,16 +3,16 @@ layout: default
 ---
 ## Education
 
-### 2020.09-now, Ph.D. (Geophysics)
+### 2020/09-now, Ph.D. (Geophysics)
 University of California, Riverside.  <br>
 Advisor: Abhijit Ghosh <br>
 
-### 2017.09-2020.07, M.S. (Geophysics)
+### 2017/09-2020/07, M.S. (Geophysics)
 Peking University, Beijing, China.   
 Advisor: Shiyong ZHOU & Han YUE <br>
 Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity <br>
 
-### 2013.09-2017.07, B.S. (Geophysics) 
+### 2013/09-2017/07, B.S. (Geophysics) 
 Peking University, Beijing, China
 Advisor: Shiyong ZHOU <br>
 Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China <br>
@@ -37,6 +37,7 @@ Outstanding Field Work Award (Peking University) <br>
 * * *
 ## TEACHING EXPERIENCE
 
+T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021 <br>
 T.A., Undergraduate, Seismology (20 students), PKU Spring 2019 <br>
 T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019 <br>
 T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018 <br>
