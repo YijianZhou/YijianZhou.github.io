@@ -10,6 +10,7 @@ Currently, I am pursuing my Ph.D. degree in UC, Riverside, under the supervision
 ### [Education](./education.html) <br>
 ### [Publications](./publications.html) <br>
 ### [Presentations](./presentations.html) <br>
+### [CV](https://drive.google.com/file/d/1-aM3FH0oNK7sfyZEaGwQPwDhQcawSR-a/view?usp=sharing) <br>
 
 * * *
 ## News and Events
