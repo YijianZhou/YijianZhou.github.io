@@ -2,5 +2,7 @@ theme: jekyll-theme-minimal
 title: Yijian ZHOU
 description: This is Yijian's Academic Homepage
 logo: /figures/logo2.jpg
-github: https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en
+show_downloads: true
+github: 
+  gs_grl: https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en
 
