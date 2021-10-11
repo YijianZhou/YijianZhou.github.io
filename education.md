@@ -21,6 +21,7 @@ Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China <br
 ## AWARDS
 ### 2020
 Outstanding Presentation (China Seismic Experimental Site Conference) <br>
+Outstanding Graduates (Peking University) <br>
 
 ### 2019
 TIEJIN Scholarship (Peking University) <br>
