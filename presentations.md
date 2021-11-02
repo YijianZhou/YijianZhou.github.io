@@ -32,6 +32,7 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 ## INVITED TALKS
 
 ### 2021
+Institute of Geophysics, China Earthquake Administration, online training on earthquake detection <br>
 Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
 
 ### 2020
