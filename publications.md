@@ -3,7 +3,7 @@ layout: default
 ---
 ### Publications
 
-**Zhou, Y.**, H. Yue, L. Fang, S. Zhou, L. Zhao, & A. Ghosh (2021). An Earthquake Detection and Location Architecture for Continuous Seismograms: Phase Picking, Association, Location, and Matched Filter (PALM). *Seismological Research Letters*; doi: [10.1785/0220210111](https://doi.org/10.1785/0220210111)
+**Zhou, Y.**, H. Yue, L. Fang, S. Zhou, L. Zhao, & A. Ghosh (2021). An Earthquake Detection and Location Architecture for Continuous Seismograms: Phase Picking, Association, Location, and Matched Filter (PALM). *Seismological Research Letters*; 93 (1): 413–425. doi: [10.1785/0220210111](https://doi.org/10.1785/0220210111)
 
 **Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021). A High-Resolution Seismic Catalog for the 2021 MS6.4/Mw6.1 YangBi Earthquake Sequence, Yunnan, China: Application of AI picker and Matched Filter. *Earthquake Science*; doi: [10.29382/eqs-2021-0031](https://doi.org/10.29382/eqs-2021-0031)
 
