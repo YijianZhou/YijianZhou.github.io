@@ -18,9 +18,10 @@ Yue, H., **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu (2018). The 20
 * * *
 ### SUBMITTED & REVISION
 
-**Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021, under review). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: More than a Triggered Cascade. *Geophysical Research Letters* 
+**Zhou, Y.**, C. Ren, A. Ghosh, H. Meng, L. Fang, H. Yue, S. Zhou, & Y. Su (2022, under review). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth* 
 
-**Zhou, Y.**, H. Yue, L. Fang, S. Zhou, L. Zhao, & A. Ghosh (2021, in preparation). Interseismic Microseismicity along Xiaojiang Fault Zone (China) and the Characterization of Fault Behavior. *Journal of Geophysical Research: Solid Earth*
+**Zhou, Y.**, H. Yue, L. Fang, S. Zhou, L. Zhao, & A. Ghosh (2022, under review). Interseismic Microseismicity along Xiaojiang Fault Zone (China) and the Characterization of Fault Behavior. *Tectonophysics*
 
+Fan, L., **Y. Zhou**, S. Liao, L. Fang, X. Guo, C. Wang, & A. Ghosh (2022, under review). Compiling High-Resolution Aftershock Catalog with AI Picker: a Case Study on the 2018 ML 4.1 Shimian Earthquake Doublet, Sichuan, China. *Seismological Research Letters*
 
 [back](./)
