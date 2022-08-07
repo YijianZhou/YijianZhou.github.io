@@ -20,7 +20,7 @@ Yue, H., **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu (2018). The 20
 **Zhou, Y.**, S. Zhou, & J. Zhuang (2018). A test on methods for MC estimation based on earthquake catalog, *Earth and Planetary Physics*, 2, 150-162. doi: [10.26464/epp2018015](https://doi.org/10.26464/epp2018015)
 
 * * *
-### SUBMITTED & REVISION
+### SUBMITTED & IN REVISION
 
 Wang, L., **Y. Zhou**, S. Zhou, & H. Zhang (2022, under review). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone(Eastern Tibetan Plateau). *Geophysical Journal International*
 
