@@ -36,13 +36,13 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 
 ### 2021
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
-    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2021/10)
+    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2021/10)  
 - **Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture**  
-    Invited by Ocean University of China, College of Marine Geoscience, Qingdao, China (2021/05)
+    Invited at the 2nd Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2021/05)  
 
 ### 2020
 - **Review of AI applications in earth science**  
-    Invited at the 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics. (2020/09)
+    Invited at the 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics (2020/09)  
 
 ### 2019
 - **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
