@@ -37,6 +37,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ### 2021
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
     Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2021/10)  
+
 - **Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture**  
     Invited at the 2nd Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2021/05)  
 
