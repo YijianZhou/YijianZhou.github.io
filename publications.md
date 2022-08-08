@@ -13,7 +13,7 @@ layout: default
 
 Lu, W., **Y. Zhou**, Z. Zhao, H. Yue, & S. Zhou (2021). Aftershock sequence of the 2017 Mw 6.5 Jiuzhaigou, China earthquake monitored by an AsA network and its implication to fault structures and strength. *Geophysical Journal International*; 228(3): 1763-1779. doi: [10.1093/gji/ggab443](https://doi.org/10.1093/gji/ggab443) 
 
-**Zhou, Y.**, H. Yue, Q. Kong, & S. Zhou (2019). Hybrid Event Detection and Phase‐Picking Algorithm Using Convolutional and Recurrent Neural Networks. *Seismological Research Letters*; 90(3): 1079–1087. doi: [10.1785/0220180319](https://doi.org/10.1785/0220180319) 
+**Zhou, Y.**, H. Yue, Q. Kong, & S. Zhou (2019). Hybrid Event Detection and Phase-Picking Algorithm Using Convolutional and Recurrent Neural Networks. *Seismological Research Letters*; 90(3): 1079–1087. doi: [10.1785/0220180319](https://doi.org/10.1785/0220180319) 
 
 Yue, H., **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu (2018). The 2017 Jiuzhaigou Earthquake Aftershock‐Monitoring Experimental Network: Network Design and Signal Enhancement Algorithm. *Seismological Research Letters*; 89(5): 1671–1679. doi: [10.1785/0220180046](https://doi.org/10.1785/0220180046) 
 
