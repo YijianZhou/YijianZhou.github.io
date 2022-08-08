@@ -46,12 +46,12 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 
 ### 2019
 - **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
-    Invited by Institute of Geophysics, China Earthquake Administration, Beijing, China (2019/10)  
-    & Ocean University of China, College of Marine Geoscience, Qingdao, China. (2019/07)  
+    Invited by Institute of Geophysics, CEA, Beijing, China (2019/10)  
+    & at the 2nd Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2019/07)  
 
 ### 2018
 - **AI-based earthquake detection and phase picking**  
-    Invited by Institute of Geophysics, China Earthquake Administration, Beijing, China (2018/10)  
+    Invited by Institute of Geophysics, CEA, Beijing, China (2018/10)  
     & The Second Monitoring and Application Center, CEA, Xi’an, China (2018/09)  
     & Peking University, Beijing, China (2018/04)  
 
