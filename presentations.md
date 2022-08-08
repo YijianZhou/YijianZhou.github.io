@@ -31,26 +31,26 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 * * *
 ## INVITED TALKS
 ### 2022
-- Online training on [PALM](https://doi.org/10.1785/0220210111)  
+- **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
   Invited by University of Science and Technology of China (2022/08)  
 
 ### 2021
-- Online training on [PALM](https://doi.org/10.1785/0220210111)  
+- **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
   Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2021/10)
-- Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture  
+- **Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture**  
   Invited by Ocean University of China, College of Marine Geoscience, Qingdao, China (2021/05)
 
 ### 2020
-- Review of AI applications in earth science  
+- **Review of AI applications in earth science**  
   Invited at the 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics. (2020/09)
 
 ### 2019
-- Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))  
+- **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
     Invited by Institute of Geophysics, China Earthquake Administration, Beijing, China (2019/10)  
     & Ocean University of China, College of Marine Geoscience, Qingdao, China. (2019/07)  
 
 ### 2018
-- AI-based earthquake detection and phase picking  
+- **AI-based earthquake detection and phase picking**  
     Invited by Institute of Geophysics, China Earthquake Administration, Beijing, China (2018/10)  
     & The Second Monitoring and Application Center, CEA, Xi’an, China (2018/09)  
     & Peking University, Beijing, China (2018/04)  
