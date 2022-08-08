@@ -30,21 +30,23 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 
 * * *
 ## INVITED TALKS
+### 2022
+University of Science and Technology of China. Online training on [PALM](https://doi.org/10.1785/0220210111)  
 
 ### 2021
-Institute of Geophysics, China Earthquake Administration, online training on earthquake detection <br>
-Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
+Institute of Geophysics, China Earthquake Administration. Online training on [PALM](https://doi.org/10.1785/0220210111)  
+Ocean University of China, College of Marine Geoscience, Qingdao, China. Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture  
 
 ### 2020
-The 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics <br>
+The 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics. Review of AI applications in earth science  
 
 ### 2019
-Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
-Ocean University of China, College of Marine Geoscience, Qingdao, China <br>
+Institute of Geophysics, China Earthquake Administration, Beijing, China. AI-based earthquake detection and phase picking  
+Ocean University of China, College of Marine Geoscience, Qingdao, China. AI-based earthquake detection and phase picking  
 
 ### 2018
-Institute of Geophysics, China Earthquake Administration, Beijing, China <br>
-The Second Monitoring and Application Center, CEA, Xi’an, China <br>
-Peking University, Beijing, China <br>
+Institute of Geophysics, China Earthquake Administration, Beijing, China. AI-based earthquake detection and phase picking  
+The Second Monitoring and Application Center, CEA, Xi’an, China. AI-based earthquake detection and phase picking  
+Peking University, Beijing, China. AI-based earthquake detection and phase picking  
 
 [back](./)
