@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Publications
+### SELECTED PUBLICATIONS
 
 **Zhou, Y.**, C. Ren, A. Ghosh, H. Meng, L. Fang, H. Yue, S. Zhou, & Y. Su (2022, in press). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth* 
 

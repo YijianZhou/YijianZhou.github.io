@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Presentations
+## SELECTED PRESENTATIONS
 **Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: More than a Triggered Cascade. *SCEC Annual Meeting*, online
 
 Ghosh, A., **Y. Zhou**, S. Niyogi, M. Mendoza, K. Chaudhuri, B. Wu, & A. Birkey (2021/09). 2019 Ridgecrest earthquake sequence: RAPID seismic deployment and a new aftershock catalog based on machine learning. *SCEC Annual Meeting*, online
@@ -12,7 +12,7 @@ Ghosh, A., **Y. Zhou**, S. Niyogi, M. Mendoza, K. Chaudhuri, B. Wu, & A. Birkey 
 
 **Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online
 
-Lu, W., H. Yue, **Y. Zhou** (2019/12., oral). Aftershock Sequence and Fault Geometry of the 2017 Mw 6.5 Jiuzhaigou Earthquake: An Application of AsA Network, Denoising Algorithms and Fault Geometry Determination Techniques. *AGU Fall Meeting*, San Francisco, USA
+Lu, W., H. Yue, **Y. Zhou** (2019/12, oral). Aftershock Sequence and Fault Geometry of the 2017 Mw 6.5 Jiuzhaigou Earthquake: An Application of AsA Network, Denoising Algorithms and Fault Geometry Determination Techniques. *AGU Fall Meeting*, San Francisco, USA
 
 Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method to Detect and Pick the Fault Zone Head Wave Arrivals and its Application in Xiaojiang Fault Zone of West-Southern China. *AGU Fall Meeting*, San Francisco, USA
 
@@ -30,6 +30,7 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 
 * * *
 ## INVITED TALKS
+
 ### 2022
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
     Invited by University of Science and Technology of China (2022/08)  
