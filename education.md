@@ -3,24 +3,24 @@ layout: default
 ---
 ## Education
 
-### 2020/09-now, Ph.D. (Geophysics)
-University of California, Riverside.  <br>
-Advisor: Abhijit Ghosh <br>
+### 2020/09-now, Ph.D. (Geophysics)  
+University of California, Riverside  
+Advisor: Abhijit Ghosh  
 
-### 2017/09-2020/07, M.S. (Geophysics)
-Peking University, Beijing, China.   
-Advisor: Shiyong ZHOU & Han YUE <br>
-Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity <br>
+### 2017/09-2020/07, M.S. (Geophysics)  
+Peking University, Beijing, China   
+Advisor: Shiyong ZHOU & Han YUE  
+Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity  
 
-### 2013/09-2017/07, B.S. (Geophysics) 
-Peking University, Beijing, China
-Advisor: Shiyong ZHOU <br>
-Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China <br>
+### 2013/09-2017/07, B.S. (Geophysics)  
+Peking University, Beijing, China  
+Advisor: Shiyong ZHOU  
+Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China  
 
 * * *
 ## AWARDS
 ### 2022
-the Shawn Biehler Distinguished Graduate Award  
+Shawn Biehler Distinguished Graduate Award  
 
 ### 2020
 Outstanding Presentation (China Seismic Experimental Site Conference)  
@@ -32,11 +32,11 @@ Special Graduate Student Scholarship (Peking University)
 Excellent Graduate Student Award (Peking University)  
 
 ### 2018
-National Scholarship (Peking University)  <br>
-Excellent Graduate Student Award (Peking University) <br>
+National Scholarship (Peking University)  
+Excellent Graduate Student Award (Peking University)  
 
 ### 2016
-Outstanding Field Work Award (Peking University) <br>
+Outstanding Field Work Award (Peking University)  
 
 * * *
 ## TEACHING EXPERIENCE
@@ -54,11 +54,11 @@ T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017
 * * *
 ## FIELD EXPERIENCE
 
-Xiaojiang Fault Zone, deployed 20 broad-band instruments (2016/09)  
-Jiuzhaigou aftershock monitoring, deployed 100 short-period instruments (2017/10 & 2018/01)  
+Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)  
+Jiuzhaigou aftershock monitoring, 100 short-period instruments (2017/10 & 2018/01)  
 Xi’an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
 Ningxia, China, 24 broad-band instruments (2018/10)  
-AnningHe Fault Zone, deployed 100 short-period instruments (2020/07)  
+AnningHe Fault Zone, 100 short-period instruments (2020/07)  
 
 
 [back](./)
