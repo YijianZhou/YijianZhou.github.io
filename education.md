@@ -9,12 +9,12 @@ Advisor: Abhijit Ghosh
 
 ### 2017/09-2020/07, M.S. (Geophysics)  
 Peking University, Beijing, China   
-Advisor: Shiyong ZHOU & Han YUE  
+Advisor: Shiyong Zhou & Han Yue  
 Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity  
 
 ### 2013/09-2017/07, B.S. (Geophysics)  
 Peking University, Beijing, China  
-Advisor: Shiyong ZHOU  
+Advisor: Shiyong Zhou  
 Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China  
 
 * * *
