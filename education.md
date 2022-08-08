@@ -41,7 +41,6 @@ Outstanding Field Work Award (Peking University)
 
 * * *
 ## TEACHING EXPERIENCE
-
 T.A., Undergraduate, Plate Tectonics (4 students), UCR Spring 2022  
 T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022  
 T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021  
@@ -54,7 +53,6 @@ T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017
 
 * * *
 ## FIELD EXPERIENCE
-
 Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)  
 Jiuzhaigou aftershock monitoring, 100 short-period instruments (2017/10 & 2018/01)  
 Xi’an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
