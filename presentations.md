@@ -31,7 +31,7 @@ Yue, H., J. Sun, M. Wang, Z. Shen, W. Lu, **Y. Zhou**, L. Xue, C. Ren, & M. Li (
 * * *
 ## INVITED TALKS
 ### 2022
--Online training on [PALM](https://doi.org/10.1785/0220210111)  
+- Online training on [PALM](https://doi.org/10.1785/0220210111)  
   invited by University of Science and Technology of China   
 
 ### 2021
