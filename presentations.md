@@ -48,7 +48,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ### 2019
 - **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
     Invited by Institute of Geophysics, CEA, Beijing, China (2019/10)  
-    & at the 2nd Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2019/07)  
+    & at the 1st Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2019/07)  
 
 ### 2018
 - **AI-based earthquake detection and phase picking**  
