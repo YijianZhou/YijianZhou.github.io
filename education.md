@@ -19,14 +19,17 @@ Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China <br
 
 * * *
 ## AWARDS
+### 2022
+the Shawn Biehler Distinguished Graduate Award  
+
 ### 2020
-Outstanding Presentation (China Seismic Experimental Site Conference) <br>
-Outstanding Graduates (Peking University) <br>
+Outstanding Presentation (China Seismic Experimental Site Conference)  
+Outstanding Graduates (Peking University)  
 
 ### 2019
-TIEJIN Scholarship (Peking University) <br>
-Special Graduate Student Scholarship (Peking University) <br>
-Excellent Graduate Student Award (Peking University) <br>
+TIEJIN Scholarship (Peking University)  
+Special Graduate Student Scholarship (Peking University)  
+Excellent Graduate Student Award (Peking University)  
 
 ### 2018
 National Scholarship (Peking University)  <br>
@@ -38,22 +41,24 @@ Outstanding Field Work Award (Peking University) <br>
 * * *
 ## TEACHING EXPERIENCE
 
-T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021 <br>
-T.A., Undergraduate, Seismology (20 students), PKU Spring 2019 <br>
-T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019 <br>
-T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018 <br>
-T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018, 2019 <br>
-T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017, 2018, 2019 <br>
+T.A., Undergraduate, Plate Tectonics (4 students), UCR Spring 2022  
+T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022  
+T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021  
+T.A., Undergraduate, Seismology (20 students), PKU Spring 2019  
+T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019  
+T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018  
+T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018-2019  
+T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017-2019  
 
 
 * * *
 ## FIELD EXPERIENCE
 
-Xiaojiang Fault Zone, deployed 20 broad-band instruments (2016.09) <br>
-Jiuzhaigou aftershock monitoring, deployed 100 short-period instruments (2017.10 & 2018.01) <br>
-Xi’an, North China craton, 21 broad-band instruments (2017.09 & 2018.09) <br>
-Ningxia, China, 24 broad-band instruments (2018.10) <br>
-AnningHe Fault Zone, deployed 100 short-period instruments (2020.07) <br>
+Xiaojiang Fault Zone, deployed 20 broad-band instruments (2016/09)  
+Jiuzhaigou aftershock monitoring, deployed 100 short-period instruments (2017/10 & 2018/01)  
+Xi’an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
+Ningxia, China, 24 broad-band instruments (2018/10)  
+AnningHe Fault Zone, deployed 100 short-period instruments (2020/07)  
 
 
 [back](./)
