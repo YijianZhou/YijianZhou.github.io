@@ -20,7 +20,7 @@ Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China
 * * *
 ## AWARDS
 ### 2022
-Shawn Biehler Distinguished Graduate Award  
+Shawn Biehler Distinguished Graduate Award (UC Riverside)  
 
 ### 2020
 Outstanding Presentation (China Seismic Experimental Site Conference)  
