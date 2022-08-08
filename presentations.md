@@ -17,11 +17,11 @@ Lu, W., H. Yue, **Y. Zhou** (2019/12, oral). Aftershock Sequence and Fault Geome
 
 Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method to Detect and Pick the Fault Zone Head Wave Arrivals and its Application in Xiaojiang Fault Zone of West-Southern China. *AGU Fall Meeting*, San Francisco, USA  
 
-**Zhou, Y.** & S. Zhou (2019/10, oral). PAD: Phase-picking-and-Association-based Earthquake Detection Technique and the Application on Dense Array Observation in Xiaojiang Fault Zone, Yunnan, China. *Annual Meeting of Chinese Geoscience Union (CGU)*, Beijing, China  
+**Zhou, Y.** & S. Zhou (2019/10, oral). PAD: Phase-picking-and-Association-based Earthquake Detection Technique and the Application on Dense Array Observation in Xiaojiang Fault Zone, Yunnan, China. *Annual Meeting of CGU*, Beijing, China  
 
 **Zhou, Y.**, H. Yue, Q. Kong, & S. Zhou (2018/12). Seismic Event Detection of AsA Array using Recurrent Neural Network, *AGU Fall Meeting*, Washington D.C., USA  
 
-**Zhou, Y.**, S. Zhou, H. Yue, & Q. Kong (2018/10, oral). CDRP: A Possible Deep Learning Solution for Seismicity Monitoring. *Annual Meeting of Chinese Geoscience Union (CGU)*, Beijing, China  
+**Zhou, Y.**, S. Zhou, H. Yue, & Q. Kong (2018/10, oral). CDRP: A Possible Deep Learning Solution for Seismicity Monitoring. *Annual Meeting of CGU*, Beijing, China  
 
 **Zhou, Y.**, H. Yue, & S. Zhou (2018/05, oral). The detection and phase picking for seismic signal with convolutional and recurrent neural network. *4th International Conference on Continental Earthquakes*, Chengdu, China  
 
