@@ -32,21 +32,21 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 
 ### 2022
 - **Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade**  
-    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2022/08)  
+    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission, online (2022/08)  
 
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
-    Invited by University of Science and Technology of China (2022/08)  
+    Invited by University of Science and Technology of China, online (2022/08)  
 
 ### 2021
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
-    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2021/10)  
+    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission, online (2021/10)  
 
 - **Early Aftershock Catalog of the 2019 Ridgecrest, California Earthquake: Application of AI-based Detection and Location Architecture**  
     Invited at the 2nd Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2021/05)  
 
 ### 2020
 - **Review of AI applications in earth science**  
-    Invited at the 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics (2020/09)  
+    Invited at the 1st Asia-Pacific Geophysics Student Conference: Bridging the Gap between Exploration and Solid-Earth Geophysics, online (2020/09)  
 
 ### 2019
 - **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
@@ -56,7 +56,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ### 2018
 - **AI-based earthquake detection and phase picking**  
     Invited by Institute of Geophysics, CEA, Beijing, China (2018/10)  
-    & The Second Monitoring and Application Center, CEA, Xi’an, China (2018/09)  
+    & The Second Monitoring and Application Center, CEA, Xi'an, China (2018/09)  
     & Peking University, Beijing, China (2018/04)  
 
 [back](./)
