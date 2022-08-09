@@ -31,6 +31,9 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ## INVITED TALKS
 
 ### 2022
+- **Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade**  
+    Invited by Institute of Geophysics, China Earthquake Administration & Young Earth Scientists, Chinese National Commission (2022/08)  
+
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
     Invited by University of Science and Technology of China (2022/08)  
 
