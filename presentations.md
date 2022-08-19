@@ -36,6 +36,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
     Invited by University of Science and Technology of China, online (2022/08)  
+    Vedio recording on [KouShare](https://www.koushare.com/video/videodetail/31656)
 
 ### 2021
 - **Online training on [PALM](https://doi.org/10.1785/0220210111)**  
