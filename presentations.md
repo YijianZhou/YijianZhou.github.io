@@ -3,6 +3,8 @@ layout: default
 ---
 ## SELECTED PRESENTATIONS
 
+**Zhou, Y.**, A. Ghosh, H. Yue, L. Fang, & S. Zhou (2021/12, oral). An Early Aftershock Catalog of the 2019 Mw 7.1 Ridgecrest Earthquake: Application of an AI-based Detection and Location Architecture. *AGU Fall Meeting*, New Orleans, LA, USA  
+
 **Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: More than a Triggered Cascade. *SCEC Annual Meeting*, online  
 
 Ghosh, A., **Y. Zhou**, S. Niyogi, M. Mendoza, K. Chaudhuri, B. Wu, & A. Birkey (2021/09). 2019 Ridgecrest earthquake sequence: RAPID seismic deployment and a new aftershock catalog based on machine learning. *SCEC Annual Meeting*, online  
@@ -13,9 +15,9 @@ Ghosh, A., **Y. Zhou**, S. Niyogi, M. Mendoza, K. Chaudhuri, B. Wu, & A. Birkey 
 
 **Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online  
 
-Lu, W., H. Yue, **Y. Zhou** (2019/12, oral). Aftershock Sequence and Fault Geometry of the 2017 Mw 6.5 Jiuzhaigou Earthquake: An Application of AsA Network, Denoising Algorithms and Fault Geometry Determination Techniques. *AGU Fall Meeting*, San Francisco, USA  
+Lu, W., H. Yue, **Y. Zhou** (2019/12, oral). Aftershock Sequence and Fault Geometry of the 2017 Mw 6.5 Jiuzhaigou Earthquake: An Application of AsA Network, Denoising Algorithms and Fault Geometry Determination Techniques. *AGU Fall Meeting*, San Francisco, CA, USA  
 
-Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method to Detect and Pick the Fault Zone Head Wave Arrivals and its Application in Xiaojiang Fault Zone of West-Southern China. *AGU Fall Meeting*, San Francisco, USA  
+Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method to Detect and Pick the Fault Zone Head Wave Arrivals and its Application in Xiaojiang Fault Zone of West-Southern China. *AGU Fall Meeting*, San Francisco, CA, USA  
 
 **Zhou, Y.** & S. Zhou (2019/10, oral). PAD: Phase-picking-and-Association-based Earthquake Detection Technique and the Application on Dense Array Observation in Xiaojiang Fault Zone, Yunnan, China. *Annual Meeting of CGU*, Beijing, China  
 
@@ -25,7 +27,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 
 **Zhou, Y.**, H. Yue, & S. Zhou (2018/05, oral). The detection and phase picking for seismic signal with convolutional and recurrent neural network. *4th International Conference on Continental Earthquakes*, Chengdu, China  
 
-**Zhou, Y.**, Y. Huang, H. Yue, S. Zhou, S. An, & N. Yun (2017/12). CONEDEP: COnvolutional Neural network based Earthquake DEtection and Phase Picking. *AGU Fall Meeting*, New Orleans, USA  
+**Zhou, Y.**, Y. Huang, H. Yue, S. Zhou, S. An, & N. Yun (2017/12). CONEDEP: COnvolutional Neural network based Earthquake DEtection and Phase Picking. *AGU Fall Meeting*, New Orleans, LA, USA  
 
 * * *
 ## INVITED TALKS
