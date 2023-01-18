@@ -10,7 +10,7 @@ Currently, I am a Ph.D. student in UC Riverside, working with [Abhijit Ghosh](ht
 ### [Education](./education.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1-b4cIdo6mtLUa0yWX0q4tJSeMH8zK0v7/view?usp=sharing)  
+### [CV](https://drive.google.com/file/d/12lSJNPkeHWBsTb9aXwIMMQQQTyVbrVRe/view?usp=share_link)  
 
 * * *
 ## News and Events
