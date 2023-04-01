@@ -24,7 +24,7 @@ Yue, H., **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu (2018). The 20
 * * *
 ### SUBMITTED & UNDER REVIEW
 
-**Zhou, Y.**`<sup>*</sup>`, A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
+**Zhou, Y.**[^*], A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
 
 L., Zhang, **Y. Zhou**, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 Mw 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
 
