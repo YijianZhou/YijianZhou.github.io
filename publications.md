@@ -29,7 +29,7 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 L., Zhang, **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 Mw 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
 
 * * *
-####Cumulative count of selected publications
+#### Cumulative count of selected publications
 ![Cumulative count of selected publications](/figures/paper_count_2022.png)
 
 [back](./)
