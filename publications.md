@@ -3,7 +3,7 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS
 
-Wang, L., **Y. Zhou**, S. Zhou<sup>*</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
+Wang, L., **Y. Zhou**, S. Zhou<sup>[*]</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
 
 **Zhou, Y.**, C. Ren, A. Ghosh, H. Meng, L. Fang, H. Yue, et al. (2022). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth*; doi: [10.1029/2022JB024534](https://doi.org/10.1029/2022JB024534)  
 
@@ -24,7 +24,7 @@ Yue, H., **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu (2018). The 20
 * * *
 ### SUBMITTED & UNDER REVIEW
 
-**Zhou, Y.**<sup>2</sup>, A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
+**Zhou, Y.**<sup>{*}</sup>, A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
 
 L., Zhang, **Y. Zhou**, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 Mw 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
 
