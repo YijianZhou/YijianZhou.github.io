@@ -3,17 +3,15 @@ layout: default
 ---
 ## SELECTED PRESENTATIONS
 
+**Zhou, Y.** & A. Ghosh (2022/12, oral). Connecting the Co- and Post-seismic Fault Behavior in Ridgecrest-Coso Region with the Pre-earthquake Seismicity (2008-2019): a Revisit with AI Phase Picker. *AGU Fall Meeting*, Chicago, IL, USA  
+
+**Zhou, Y.**, Y. Li, J. Li, L. Fang, & B. Wu (2022/12, oral). Evolution of Early Aftershocks on a Discontinuous Fault System: Implications from the 2022 Mw 6.6 Menyuan Earthquake, NE Tibet. *AGU Fall Meeting*, Chicago, IL, USA  
+
 **Zhou, Y.**, A. Ghosh, H. Yue, L. Fang, & S. Zhou (2021/12, oral). An Early Aftershock Catalog of the 2019 Mw 7.1 Ridgecrest Earthquake: Application of an AI-based Detection and Location Architecture. *AGU Fall Meeting*, New Orleans, LA, USA  
 
 **Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: More than a Triggered Cascade. *SCEC Annual Meeting*, online  
 
-Ghosh, A., **Y. Zhou**, S. Niyogi, M. Mendoza, K. Chaudhuri, B. Wu, & A. Birkey (2021/09). 2019 Ridgecrest earthquake sequence: RAPID seismic deployment and a new aftershock catalog based on machine learning. *SCEC Annual Meeting*, online  
-
-**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/12). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *AGU Fall Meeting*, online  
-
-**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/10, oral). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *Annual Meeting of Chinese Geoscience Union (CGU)*, Chongqing, China  
-
-**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online  
+**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08, 10 oral, & 12). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online; *Annual Meeting of Chinese Geoscience Union (CGU)*, Chongqing, China; *AGU Fall Meeting*, online  
 
 Lu, W., H. Yue, **Y. Zhou** (2019/12, oral). Aftershock Sequence and Fault Geometry of the 2017 Mw 6.5 Jiuzhaigou Earthquake: An Application of AsA Network, Denoising Algorithms and Fault Geometry Determination Techniques. *AGU Fall Meeting*, San Francisco, CA, USA  
 
