@@ -73,20 +73,20 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 ## SERVICES
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as reviewer for multiple journals, including:  
-***Geophysical Research Letters***  
-***Seismological Research Letters***  
-***Tectonophysics***  
-***Geophysical Journal International***  
-***Bulletin of the Seismological Society of America***  
-***Scientific Reports***  
-***Frontiers in Earth Science***  
-***Earth Sciences***  
-***Journal of African Earth Sciences***  
-***Artificial Intelligence in Geosciences***  
-***Chinese Journal of Geophysics (in Chinese)***  
-***Earthquake Research Advances***  
-***Geoscience Science and Remote Sensing Letters***  
-***Earthquake Research in China (in Chinese)***  
+*Geophysical Research Letters*  
+*Seismological Research Letters*  
+*Tectonophysics*  
+*Geophysical Journal International*  
+*Bulletin of the Seismological Society of America*  
+*Scientific Reports*  
+*Frontiers in Earth Science*  
+*Earth Sciences*  
+*Journal of African Earth Sciences*  
+*Artificial Intelligence in Geosciences*  
+*Chinese Journal of Geophysics (in Chinese)*  
+*Earthquake Research Advances*  
+*Geoscience Science and Remote Sensing Letters*  
+*Earthquake Research in China (in Chinese)*  
 
 
 [back](./)
