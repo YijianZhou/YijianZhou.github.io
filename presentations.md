@@ -9,7 +9,7 @@ layout: default
 
 **Zhou, Y.**, A. Ghosh, H. Yue, L. Fang, & S. Zhou (2021/12, oral). An Early Aftershock Catalog of the 2019 Mw 7.1 Ridgecrest Earthquake: Application of an AI-based Detection and Location Architecture. *AGU Fall Meeting*, New Orleans, LA, USA  
 
-**Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: More than a Triggered Cascade. *SCEC Annual Meeting*, online  
+**Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: Not a Triggered Cascade. *SCEC Annual Meeting*, online  
 
 **Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08, 10 oral, & 12). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online; *Annual Meeting of Chinese Geoscience Union (CGU)*, Chongqing, China; *AGU Fall Meeting*, online  
 
