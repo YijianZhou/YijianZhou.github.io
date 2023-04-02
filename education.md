@@ -70,6 +70,7 @@ Xi'an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)
 Jiuzhaigou aftershock monitoring, 100 short-period instruments (2017/10 & 2018/01)  
 Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)  
 
+* * *
 ## SERVICES
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as reviewer for multiple journals, including:  
