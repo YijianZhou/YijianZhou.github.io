@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Education
+## EDUCATION
 
 ### 2020/09-now, Ph.D. (Geophysics)  
 University of California, Riverside  
@@ -40,16 +40,27 @@ Excellent Graduate Student Award (Peking University)
 Outstanding Field Work Award (Peking University)  
 
 * * *
+## WORKING EXPERIENCE
+
+### 2023/07-2023/09, Graduate Student Intern  
+Lawrence Livermore National Laboratory, Livermore, California  
+Collaborator: Qingkai Kong & Arben Pitarka  
+
+### 2020/08-2021/08, Research Assistant  
+Institute of Geophysics, CEA  
+Collaborator: Lihua Fang  
+
+* * *
 ## TEACHING EXPERIENCE
-T.A., Undergraduate, Plate Tectonics (4 students), UCR Spring 2022  
-T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022  
-T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021  
+T.A., Undergraduate, Structural Geology (17 students), UCR Winter 2023  
+T.A., Undergraduate, Active Tectonics and Remote Sensing (4 students), UCR Spring 2022  
+T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022 & Spring 2023  
+T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021-2022  
 T.A., Undergraduate, Seismology (20 students), PKU Spring 2019  
 T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019  
 T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018  
 T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018-2019  
 T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017-2019  
-
 
 * * *
 ## FIELD EXPERIENCE
@@ -58,6 +69,24 @@ Ningxia, China, 24 broad-band instruments (2018/10)
 Xi'an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
 Jiuzhaigou aftershock monitoring, 100 short-period instruments (2017/10 & 2018/01)  
 Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)  
+
+## SERVICES
+* I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
+* I serve as reviewer for multiple journals, including: 
+Geophysical Research Letters,  
+Seismological Research Letters,  
+Tectonophysics,  
+Geophysical Journal International,  
+Bulletin of the Seismological Society of America,  
+Scientific Reports,  
+Frontiers in Earth Science,  
+Earth Sciences,  
+Journal of African Earth Sciences,  
+Artificial Intelligence in Geosciences,  
+Chinese Journal of Geophysics (in Chinese),  
+Earthquake Research Advances,  
+Geoscience Science and Remote Sensing Letters,  
+Earthquake Research in China (in Chinese)  
 
 
 [back](./)
