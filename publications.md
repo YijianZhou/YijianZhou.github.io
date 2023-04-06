@@ -32,7 +32,7 @@ L., Zhang, **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L.
 #### Cumulative count of selected publications
 ![Cumulative count of selected publications](/figures/paper_count_2022.png)  
 1. **Representative works**: first-author or second- & corresponding-author SCI papers  
-2. **Collaborative / Rapid**: second-author SCI or first- & corresponding-author Non-SCI papers  
+2. **Collaborative / Rapid**: second- / third-author SCI or first- / corresponding-author Non-SCI papers  
 3. **Nature / Science / PNAS and their subjournals**: first-author or second- & corresponding-author  
 
 [back](./)
