@@ -3,6 +3,10 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS
 
+Ding, H., **Y. Zhou**`*`</sup>, Z. Ge`*`</sup>, T. Taymaz, A. Ghosh, ... & X. Song`*`</sup> (2023). High-Resolution Seismicity Imaging for the 2023 Kahramanmaraş (SE Türkiye) Mw 7.9 & 7.8 Earthquake Doublet with Early Aftershocks. *Earthquake Science*  
+
+L., Zhang, **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 Mw 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
+
 Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
 
 **Zhou, Y.**<sup>`*`</sup>, C. Ren, A. Ghosh, H. Meng, L. Fang<sup>`*`</sup>, H. Yue, et al. (2022). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth*; 127(8). doi: [10.1029/2022JB024534](https://doi.org/10.1029/2022JB024534)  
@@ -26,7 +30,6 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 
 **Zhou, Y.**<sup>`*`</sup>, A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
 
-L., Zhang, **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 Mw 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
 
 * * *
 #### Cumulative count of selected publications
