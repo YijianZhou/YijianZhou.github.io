@@ -5,7 +5,7 @@ layout: default
 
 Ding, H., **Y. Zhou**<sup>`*`</sup>, Z. Ge<sup>`*`</sup>, T. Taymaz, A. Ghosh, ... & X. Song<sup>`*`</sup> (2023). High-Resolution Seismicity Imaging for the 2023 Kahramanmaraş (SE Türkiye) M<sub>w</sub> 7.9 & 7.8 Earthquake Doublet with Early Aftershocks. *Earthquake Science*  
 
-L., Zhang, **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
+Zhang, L., **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*  
 
 Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
 
@@ -33,7 +33,7 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 
 * * *
 #### Cumulative count of selected publications
-![Cumulative count of selected publications](/figures/paper_count_2022.png)  
+![Cumulative count of selected publications](/figures/paper_count_2023.png)  
 1. **Representative works**: first-author or second- & corresponding-author SCI papers  
 2. **Collaborative / Rapid**: second- / third-author SCI or first- / corresponding-author Non-SCI papers  
 3. **Nature / Science / PNAS and their subjournals**: first-author or second- & corresponding-author  
