@@ -21,6 +21,9 @@ This is my first rapid response to an event of international attention. Several 
 (2) Prof. Anthony Lomax also extends appreciations to my results!  
 (3) I have one more reliable collaborator, Hongyang Ding, a 1st-year PhD from PKU  
 
+**[2023.05] I received the Roland Blanchard Award in our department!**  
+The 24W quarter will be my first quarter without being TA :)  
+
 **[2023.03] The [SRL paper](https://www.researchgate.net/publication/367519243_2022_Mw_66_Luding_China_Earthquake_A_Strong_Continental_Event_Illuminating_the_Moxi_Seismic_Gap) on 2022 Luding earthquake is accepted** after being rejected by Science China last year :)  
 This is my first second- & corresponding-author paper, meaning that it is completed with my hands-on supervision  
 
