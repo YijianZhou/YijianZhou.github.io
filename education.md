@@ -81,7 +81,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 ## SERVICES
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as reviewer for multiple journals, including:  
-*Communications Earth & Environment*
+*Communications Earth & Environment*  
 *Geophysical Research Letters*  
 *Seismological Research Letters*  
 *Geophysical Journal International*  
