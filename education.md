@@ -62,7 +62,7 @@ Collaborator: Qingkai Kong & Richard Allen
 T.A., Undergraduate, Structural Geology (17 students), UCR Winter 2023  
 T.A., Undergraduate, Active Tectonics and Remote Sensing (4 students), UCR Spring 2022  
 T.A., Undergraduate, Natural Hazards and Disasters (300 students), UCR Winter 2022 & Spring 2023  
-T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021-2022  
+T.A., Undergraduate, Earthquake Country (300 students), UCR Fall 2021-2023  
 T.A., Undergraduate, Seismology (20 students), PKU Spring 2019  
 T.A., Undergraduate, Academic Writing in Geophysics (15 students), PKU Spring 2019  
 T.A., Undergraduate, Experiments of Seismology (20 students), PKU Spring 2018  
@@ -81,15 +81,16 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 ## SERVICES
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as reviewer for multiple journals, including:  
+*Communications Earth & Environment*
 *Geophysical Research Letters*  
 *Seismological Research Letters*  
-*Tectonophysics*  
 *Geophysical Journal International*  
+*Tectonophysics*  
 *Bulletin of the Seismological Society of America*  
+*Journal of African Earth Sciences*  
+*Earth Sciences*  
 *Scientific Reports*  
 *Frontiers in Earth Science*  
-*Earth Sciences*  
-*Journal of African Earth Sciences*  
 *Artificial Intelligence in Geosciences*  
 *Chinese Journal of Geophysics (in Chinese)*  
 *Earthquake Research Advances*  
