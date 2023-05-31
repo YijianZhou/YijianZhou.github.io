@@ -50,6 +50,10 @@ Collaborator: Qingkai Kong & Arben Pitarka
 Institute of Geophysics, CEA, Beijing, China  
 Collaborator: Lihua Fang  
 
+### 2018/06-2018/08, Research Visit  
+Berkeley Seismological Laboratory, UC Berkeley, California  
+Collaborator: Qingkai Kong & Richard Allen  
+
 * * *
 ## TEACHING EXPERIENCE
 T.A., Undergraduate, Structural Geology (17 students), UCR Winter 2023  
