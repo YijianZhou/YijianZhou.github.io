@@ -15,6 +15,9 @@ Currently, I am a Ph.D. candidate in UC Riverside, working with [Abhijit Ghosh](
 * * *
 ## News and Events  
 
+**[2023.06] Back to China for a short visit!**  
+My classmates have begun their search for positions in academia, a challenging endeavor, yet their unwavering passion for research remains undiminished.  
+
 **[2023.05] The [EQS paper](https://www.researchgate.net/publication/370402790_High-Resolution_Seismicity_Imaging_for_the_2023_Kahramanmaras_SE_Turkiye_Mw_79_78_Earthquake_Doublet_with_Early_Aftershocks) on 2023 Turkey aftershock catalog is accepted**  
 This is my first rapid response to an event of international attention. Several encouraging details to name:  
 (1) [The twitter I posted](https://twitter.com/yijian_zhou/status/1636837939006283777) got wide recognition  
