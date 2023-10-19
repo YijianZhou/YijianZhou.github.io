@@ -5,9 +5,9 @@ layout: default
 
 Ding, H., **Y. Zhou**<sup>`*`</sup>, Z. Ge<sup>`*`</sup>, T. Taymaz, A. Ghosh, ... & X. Song<sup>`*`</sup> (2023). High-Resolution Seismicity Imaging and Early Aftershocks Migration of the 2023 Kahramanmaraş (SE Türkiye) M<sub>w</sub> 7.9 & 7.8 Earthquake Doublet. *Earthquake Science*; doi: [10.1016/j.eqs.2023.06.002](https://doi.org/10.1016/j.eqs.2023.06.002)  
 
-Zhang, L., **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*; doi: [10.1785/0220220383](https://doi.org/10.1785/0220220383)  
+Zhang, L., **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*; 94 (5): 2129–2142. doi: [10.1785/0220220383](https://doi.org/10.1785/0220220383)  
 
-Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
+Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; 234 (2): 1157-1167. doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
 
 **Zhou, Y.**<sup>`*`</sup>, C. Ren, A. Ghosh, H. Meng, L. Fang<sup>`*`</sup>, H. Yue, et al. (2022). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth*; 127(8). doi: [10.1029/2022JB024534](https://doi.org/10.1029/2022JB024534)  
 
