@@ -28,7 +28,7 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 * * *
 ### SUBMITTED & UNDER REVIEW
 
-**Zhou, Y.**<sup>`*`</sup>, A. Ghosh, L. Fang, H. Yue, & S. Zhou (2023). Construction of Long-term Seismic Catalog with Deep Learning and Characterization of Preseismic Fault Behavior in the Ridgecrest-Coso Region (2008-2019). *Geophysical Research Letters*  
+**Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2024, under review). Construction of Long-Term Seismic Catalog with Deep Learning: A Workflow for Localized Self-Attention RNN (LoSAR). *Journal of Geophysical Research: Solid Earth*  
 
 
 * * *
