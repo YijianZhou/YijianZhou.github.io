@@ -76,6 +76,7 @@ T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017
 
 * * *
 ## FIELD EXPERIENCE  
+Death Valley, "GEO 116. Structural Geology" field trip (2023/03)  
 Anninghe Fault Zone, 100 short-period instruments (2020/07)  
 Ningxia, China, 24 broad-band instruments (2018/10)  
 Xi'an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
