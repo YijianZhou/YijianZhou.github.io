@@ -15,6 +15,18 @@ Currently, I am a Ph.D. candidate in UC Riverside, working with [Abhijit Ghosh](
 * * *
 ## News and Events  
 
+**[2024.05] Getting the SSA student presentation award!**  
+I did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
+
+**[2024.04] Finished [manuscript on LoSAR](http://dx.doi.org/10.22541/essoar.171412572.25170940/v1), finally ...**  
+I think the earthquake cataloging problem is solved to a satisfactory degree, and I can mentally move on to sooooo many other interesting projects!
+
+**[2023.12] AGU at SF**  
+Good to see AGU getting beck to its pre-COVID state, and I'm able to meet my Chinese friends
+
+**[2023.07] Summer Intern at LLNL**  
+Our lab do not support students during summer, but LLNL pays well!  
+
 **[2023.06] Back to China for a short visit!**  
 My classmates have begun their search for positions in academia, a challenging endeavor, yet their unwavering passion for research remains undiminished.  
 

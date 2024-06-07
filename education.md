@@ -22,8 +22,8 @@ Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China
 ## AWARDS
 
 ### 2024  
-SSA Annual Meeting Student Presentation Award
-Dissertation Completion Fellowship Award (UC Riverside)
+SSA Annual Meeting Student Presentation Award  
+Dissertation Completion Fellowship Award (UC Riverside)  
 
 ### 2023  
 Roland Blanchard Award (UC Riverside)  
