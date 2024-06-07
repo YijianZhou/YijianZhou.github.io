@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-## SELECTED PRESENTATIONS
+## SELECTED PRESENTATIONS  
+**Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2024/04, oral). Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow. *SSA Annual Meeting*, Anchorage, AK, USA  
+
+**Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2023/12). Distinct Aftershock Patterns of the Dual Faults in the 2023 Kahramanmaraş (SE Türkiye) Earthquake Doublet Revealed by High-Resolution Seismic Catalogs. *AGU Fall Meeting*, San Francisco, CA, USA  
 
 **Zhou, Y.** & A. Ghosh (2022/12, oral). Connecting the Co- and Post-seismic Fault Behavior in Ridgecrest-Coso Region with the Pre-earthquake Seismicity (2008-2019): a Revisit with AI Phase Picker. *AGU Fall Meeting*, Chicago, IL, USA  
 
@@ -29,6 +32,14 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 
 * * *
 ## INVITED TALKS
+
+### 2024  
+- **Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow**  
+    Invited by Caltech Brownbag Seminar, CA, USA (2024/05)  
+    
+### 2023  
+- **Seismological Characterization of Large Earthquakes and Fault Zones: on the 2023 Türkiye & 2008-2019 Ridgecrest-Coso**
+    Invited by PKU, Institute of Geophysics, CEA, and China Earthquake Network Center (CENC) (2023/06)
 
 ### 2022
 - **Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade ([paper link](10.1029/2022JB024534))**  
