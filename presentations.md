@@ -38,7 +38,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
     Invited by Caltech Brownbag Seminar, CA, USA (2024/05)  
     
 ### 2023  
-- **Seismological Characterization of Large Earthquakes and Fault Zones: on the 2023 Türkiye & 2008-2019 Ridgecrest-Coso**
+- **Seismological Characterization of Large Earthquakes and Fault Zones: on the 2023 Türkiye & 2008-2019 Ridgecrest-Coso**  
     Invited by PKU, Institute of Geophysics, CEA, and China Earthquake Network Center (CENC) (2023/06)
 
 ### 2022
