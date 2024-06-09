@@ -15,8 +15,8 @@ Currently, I am a Ph.D. candidate in UC Riverside, working with [Abhijit Ghosh](
 * * *
 ## News and Events  
 
-**[2024.05] Getting the SSA student presentation award!**  
-I did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
+**[2024.05] I Got the SSA student presentation award!**  
+Did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
 
 **[2024.04] Finished [manuscript on LoSAR](http://dx.doi.org/10.22541/essoar.171412572.25170940/v1), finally ...**  
 I think the earthquake cataloging problem is solved to a satisfactory degree, and I can mentally move on to sooooo many other interesting projects!
