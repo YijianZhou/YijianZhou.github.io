@@ -27,6 +27,7 @@ Dissertation Completion Fellowship Award (UC Riverside)
 
 ### 2023  
 Roland Blanchard Award (UC Riverside)  
+SCEC Research Travel Award
 
 ### 2022  
 Shawn Biehler Distinguished Graduate Award (UC Riverside)  
