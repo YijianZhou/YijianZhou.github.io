@@ -19,19 +19,27 @@ Advisor: Shiyong Zhou
 Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China  
 
 * * *
-## WORKING EXPERIENCE
+## WORKING EXPERIENCE  
+
+### 2024/10-now, Post-doc  
+California Institute of Technology, California  
+Supervisor: Jean-Philippe Avouac  
+Projects: Observation and modelling of induced seismicity  
 
 ### 2023/07-2023/09, Graduate Student Intern  
 Lawrence Livermore National Laboratory, Livermore, California  
 Collaborator: Qingkai Kong & Arben Pitarka  
+Projects: Comparative studies on AI phase pickers  
 
 ### 2020/08-2021/08, Research Assistant  
 Institute of Geophysics, CEA, Beijing, China  
 Collaborator: Lihua Fang  
+Projects: Seismic data processing and mentoring  
 
 ### 2018/06-2018/08, Research Visit  
 Berkeley Seismological Laboratory, UC Berkeley, California  
 Collaborator: Qingkai Kong & Richard Allen  
+Projects: Developing AI earthquake detection method  
 
 * * *
 ## AWARDS
