@@ -3,10 +3,10 @@ layout: default
 ---
 ## EDUCATION
 
-### 2020/09-now, Ph.D. (Geophysics)  
+### 2020/09-2024/09, Ph.D. (Geophysics)  
 University of California, Riverside  
 Advisor: Abhijit Ghosh  
-Thesis: Connecting the Pre-, Co-, and Post-Seismic Fault Behavior with High-resolution Seismic Catalog, Statistics, and Source Spectra Analysis
+Dissertation: Connecting the Pre-, Co-, and Post-Seismic Fault Behavior with High-Resolution Seismic Catalog, Statistics, and Source Spectra Analysis  
 
 ### 2017/09-2020/07, M.S. (Geophysics)  
 Peking University, Beijing, China   
@@ -19,9 +19,25 @@ Advisor: Shiyong Zhou
 Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China  
 
 * * *
+## WORKING EXPERIENCE
+
+### 2023/07-2023/09, Graduate Student Intern  
+Lawrence Livermore National Laboratory, Livermore, California  
+Collaborator: Qingkai Kong & Arben Pitarka  
+
+### 2020/08-2021/08, Research Assistant  
+Institute of Geophysics, CEA, Beijing, China  
+Collaborator: Lihua Fang  
+
+### 2018/06-2018/08, Research Visit  
+Berkeley Seismological Laboratory, UC Berkeley, California  
+Collaborator: Qingkai Kong & Richard Allen  
+
+* * *
 ## AWARDS
 
 ### 2024  
+Chinese Government Award for Outstanding Self-financed Students Abroad  
 SSA Annual Meeting Student Presentation Award  
 Dissertation Completion Fellowship Award (UC Riverside)  
 
@@ -47,21 +63,6 @@ Excellent Graduate Student Award (Peking University)
 
 ### 2016  
 Outstanding Field Work Award (Peking University)  
-
-* * *
-## WORKING EXPERIENCE
-
-### 2023/07-2023/09, Graduate Student Intern  
-Lawrence Livermore National Laboratory, Livermore, California  
-Collaborator: Qingkai Kong & Arben Pitarka  
-
-### 2020/08-2021/08, Research Assistant  
-Institute of Geophysics, CEA, Beijing, China  
-Collaborator: Lihua Fang  
-
-### 2018/06-2018/08, Research Visit  
-Berkeley Seismological Laboratory, UC Berkeley, California  
-Collaborator: Qingkai Kong & Richard Allen  
 
 * * *
 ## TEACHING EXPERIENCE  
