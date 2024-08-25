@@ -99,7 +99,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 * I serve as an early career representative on the AGU Seismology section executive committee (2024-2026). 
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as volunteer in the Education Outreach Program (GEOP) of the EPS department, UCR, including ShakeOut in UCR campus and “Night of Art and Innovation” (2021-2022), “Classroom presentation on Earthquakes” in Camino Real elementary school (2022)
-* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021)
+* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023)
 * I serve as reviewer for multiple journals, including:  
 *Communications Earth & Environment*  
 *Journal of Geophysical Research: Solid Earth*
