@@ -48,6 +48,7 @@ Projects: Developing AI earthquake detection method
 Chinese Government Award for Outstanding Self-financed Students Abroad  
 SSA Annual Meeting Student Presentation Award  
 Dissertation Completion Fellowship Award (UC Riverside)  
+Outstanding Student Presentation in AI Seismology Seminar  
 
 ### 2023  
 Roland Blanchard Award (UC Riverside)  
