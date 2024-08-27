@@ -110,6 +110,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 *Geophysical Journal International*
 *Bulletin of the Seismological Society of America*  
 *Science China – Earth Science*  
+*Seismica*  
 *Scientific Reports*  
 *Earth Sciences*  
 *Artificial Intelligence in Geosciences*  
