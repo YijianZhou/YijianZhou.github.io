@@ -105,6 +105,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 *Communications Earth & Environment*  
 *Journal of Geophysical Research: Solid Earth*
 *Geophysical Research Letters*  
+*Earth and Planetary Science Letters*  
 *Seismological Research Letters*  
 *Geophysical Journal International*  
 *Tectonophysics*  
