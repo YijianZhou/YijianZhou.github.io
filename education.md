@@ -119,7 +119,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 *Chinese Journal of Geophysics (in Chinese)*  
 *Earthquake Research Advances*  
 *Journal of African Earth Sciences*  
-*Geoscience Science and Remote Sensing Letters*  
+*Geoscience and Remote Sensing Letters*  
 *Earthquake Research in China (in Chinese)*  
 
 
