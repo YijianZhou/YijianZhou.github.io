@@ -30,6 +30,7 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 
 **Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2024, under review). Construction of Long-Term Seismic Catalog with Deep Learning: A Workflow for Localized Self-Attention RNN (LoSAR). *Journal of Geophysical Research: Solid Earth*  
 
+**Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2024, under review). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*  
 
 * * *
 #### Cumulative count of selected publications
