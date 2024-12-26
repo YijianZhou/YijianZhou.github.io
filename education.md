@@ -103,7 +103,7 @@ Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)
 * I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023)
 * I serve as reviewer for multiple journals, including:  
 *Communications Earth & Environment*  
-*Journal of Geophysical Research: Solid Earth*
+*Journal of Geophysical Research: Solid Earth*  
 *Geophysical Research Letters*  
 *Earth and Planetary Science Letters*  
 *Seismological Research Letters*  
