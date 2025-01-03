@@ -15,6 +15,15 @@ Currently, I am a Ph.D. candidate in UC Riverside, working with [Abhijit Ghosh](
 * * *
 ## News and Events  
 
+**[2024.12] AGU and road trips**  
+A fun and busy December. Nice to be with my friends  
+
+**[2024.10] Start my Post-doc in Caltech**  
+Soooo lucky to work with JPA!
+
+**[2024.07] Visited SUSTech, CEA-IGP and conference in Beijing**  
+Fantastic experience KTV with USC club in Beijing :)
+
 **[2024.05] I Got the SSA student presentation award!**  
 Did't even remember I participate, but it's so lucky to get it: I'll no longer be a Ph.D. student :)
 
@@ -22,7 +31,7 @@ Did't even remember I participate, but it's so lucky to get it: I'll no longer b
 I think the earthquake cataloging problem is solved to a satisfactory degree, and I can mentally move on to sooooo many other interesting projects!
 
 **[2023.12] AGU at SF**  
-Good to see AGU getting beck to its pre-COVID state, and I'm able to meet my Chinese friends
+Good to see AGU getting back to its pre-COVID state, and I'm able to meet my Chinese friends
 
 **[2023.07] Summer Intern at LLNL**  
 Our lab do not support students during summer, but LLNL pays well!  
