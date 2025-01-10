@@ -1,8 +1,8 @@
 ## About me:
 
-I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. A set of detection and location codes can be found on [my GitHub](https://github.com/YijianZhou). My recent research activities are posted on [Twitter](https://twitter.com/yijian_zhou), [ResearchGate](https://www.researchgate.net/profile/Yijian-Zhou-3), and [Google Scholar](https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en)
+I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. I develop open-sourced software for seismic data processing, please stay tunned on [my GitHub](https://github.com/YijianZhou). My recent research activities are posted on [Twitter](https://twitter.com/yijian_zhou), [ResearchGate](https://www.researchgate.net/profile/Yijian-Zhou-3), and [Google Scholar](https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en)
 
-Currently, I am a Ph.D. candidate in UC Riverside, working with [Abhijit Ghosh](http://faculty.ucr.edu/~aghosh/)
+Currently, I am a Post-doc in California Institute of Technology, working with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/) on [GMG projects](https://gmg.caltech.edu/)
 
 * * *
 ## More about me:  
