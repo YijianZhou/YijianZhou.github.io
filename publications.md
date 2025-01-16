@@ -36,7 +36,7 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 #### Cumulative count of selected publications
 ![Cumulative count of selected publications](/figures/paper_count_2024.png)  
 **1. Lead-author works**: first-author or corresponding-author SCI papers  
-**2. Collaborative / Rapid**: top-three-author SCI or first- / corresponding-author Non-SCI papers  
+**2. Collaborative / Rapid**: second or third-author SCI and first- or corresponding-author Non-SCI papers  
 **3. Representative works**: my personal picks, not necessarily Nature / Science  
 
 [back](./)
