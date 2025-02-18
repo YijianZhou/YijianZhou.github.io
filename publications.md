@@ -3,6 +3,10 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS
 
+**Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2025). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*; doi: [10.1029/2024GL114367](https://doi.org/10.1029/2024GL114367)    
+
+Luo, H., **Y. Zhou**, Z. Zhao, M. Köküm, T. Wang<sup>`*`</sup>, H. Yue, Z. Wang, N. Hu, A. Ghosh, X. Song, and R. Bürgmann (2025). A New Fault Slip Mode Unveiled in the Regional Dynamic Triggering of the 2023 Turkey Kahramanmaraş Earthquake Sequence. *AGU Advances*; doi: [10.1029/2024AV001457](https://doi.org/10.1029/2024AV001457)  
+
 Ding, H., **Y. Zhou**<sup>`*`</sup>, Z. Ge<sup>`*`</sup>, T. Taymaz, A. Ghosh, ... & X. Song<sup>`*`</sup> (2023). High-Resolution Seismicity Imaging and Early Aftershocks Migration of the 2023 Kahramanmaraş (SE Türkiye) M<sub>w</sub> 7.9 & 7.8 Earthquake Doublet. *Earthquake Science*; doi: [10.1016/j.eqs.2023.06.002](https://doi.org/10.1016/j.eqs.2023.06.002)  
 
 Zhang, L., **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*; 94 (5): 2129–2142. doi: [10.1785/0220220383](https://doi.org/10.1785/0220220383)  
@@ -30,7 +34,6 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 
 **Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2025, under review). AI-PAL: Localize AI Phase Picker with Rule-based Algorithm for Generalized Earthquake Detection. *Journal of Geophysical Research: Solid Earth*  
 
-**Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2025, under review). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*  
 
 * * *
 #### Cumulative count of selected publications
