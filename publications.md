@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-### SELECTED PUBLICATIONS
+### SELECTED PUBLICATIONS  
 
-**Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2025). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*; doi: [10.1029/2024GL114367](https://doi.org/10.1029/2024GL114367)    
+**Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2025). AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection. *Journal of Geophysical Research: Solid Earth*; doi: [10.1029/2025JB031294](https://doi.org/10.1029/2025JB031294)  
+
+**Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2025). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*; doi: [10.1029/2024GL114367](https://doi.org/10.1029/2024GL114367)  
 
 Luo, H., **Y. Zhou**, Z. Zhao, M. Köküm, T. Wang<sup>`*`</sup>, H. Yue, Z. Wang, N. Hu, A. Ghosh, X. Song, and R. Bürgmann (2025). A New Fault Slip Mode Unveiled in the Regional Dynamic Triggering of the 2023 Turkey Kahramanmaraş Earthquake Sequence. *AGU Advances*; doi: [10.1029/2024AV001457](https://doi.org/10.1029/2024AV001457)  
 
@@ -32,7 +34,6 @@ Yue, H.<sup>`*`</sup>, **Y. Zhou**, S. Zhou, Y. Huang, M. Li, L. Zhou, & Z. Liu 
 * * *
 ### SUBMITTED & UNDER REVIEW
 
-**Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2025, under review). AI-PAL: Localize AI Phase Picker with Rule-based Algorithm for Generalized Earthquake Detection. *Journal of Geophysical Research: Solid Earth*  
 
 
 * * *
