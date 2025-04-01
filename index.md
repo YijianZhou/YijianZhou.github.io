@@ -10,10 +10,13 @@ Currently, I am a Post-doc in California Institute of Technology, working with [
 ### [Education](./education.html)  
 ### [Publications](./publications.html)  
 ### [Presentations](./presentations.html)  
-### [CV](https://drive.google.com/file/d/1dYlDhwHDrZrh5Et0EbB-qfB60KGcbu0C/view?usp=sharing)  
+### [CV](https://drive.google.com/file/d/1eE4QHMpWLnModGCJ8WmJzNU0ylDYoFaC/view?usp=sharing)  
 
 * * *
 ## News and Events  
+
+**[2025.04] Our [AGU Advances paper](https://doi.org/10.1029/2024AV001457) is selected as EOS Research Spotlight**  
+We found high-stress-drop SSE in the 2023 Turkey sequence. Reporting such special signals should not be an end, and more investigations on its mechanisms are needed in the future.  
 
 **[2025.02-03] Papers published: AI-PAL, Quasi-repeaters**  
 [AI-PAL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031294) is finally out!! I've been having this idea for over 4 years  
