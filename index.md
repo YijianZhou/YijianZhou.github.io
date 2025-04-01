@@ -15,6 +15,10 @@ Currently, I am a Post-doc in California Institute of Technology, working with [
 * * *
 ## News and Events  
 
+**[2025.02-03] Papers published: AI-PAL, Quasi-repeaters**  
+[AI-PAL](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031294) is finally out!! I've been having this idea for over 4 years  
+Searching for quasi-repeaters within repeater sequences is also an idea from my list, and we have now applied it to [2023 Turkey doublet](https://doi.org/10.1029/2024GL114367)  
+
 **[2024.12] AGU and road trips**  
 A fun and busy December. Nice to be with my friends  
 
