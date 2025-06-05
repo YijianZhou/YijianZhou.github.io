@@ -15,8 +15,8 @@ Currently, I am a Post-doc in California Institute of Technology, working with [
 * * *
 ## News and Events  
 
-**[2025.05] Our AI-PAL and Quasi-repeater Works being Recognized by Japanese Researchers!**
-I got invited to the International Joint Workshop on [Slow-to-Fast Earthquakes 2025](https://sites.google.com/view/slow2fast-earthquake-workshop/) 
+**[2025.05] Our AI-PAL and Quasi-repeater Works being Recognized by Japanese Researchers!**  
+I got invited to the International Joint Workshop on [Slow-to-Fast Earthquakes 2025](https://sites.google.com/view/slow2fast-earthquake-workshop/)  
 My quasi-repeater catalog in Turkey is included in the [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/) by "Science of Slow-to-Fast Earthquake"  
 
 **[2025.04] Our [AGU Advances paper](https://doi.org/10.1029/2024AV001457) is selected as EOS Research Spotlight**  
