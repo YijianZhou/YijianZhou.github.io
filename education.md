@@ -6,7 +6,7 @@ layout: default
 ### 2020/09-2024/09, Ph.D. (Geophysics)  
 University of California, Riverside  
 Advisor: Abhijit Ghosh  
-Dissertation: Connecting the Pre-, Co-, and Post-Seismic Fault Behavior with High-Resolution Seismic Catalog, Statistics, and Source Spectra Analysis [PDF](https://escholarship.org/uc/item/5w82803g)  
+Dissertation: Connecting the Pre-, Co-, and Post-Seismic Fault Behavior with High-Resolution Seismic Catalog, Statistics, and Source Spectra Analysis [[PDF](https://escholarship.org/uc/item/5w82803g)]  
 
 ### 2017/09-2020/07, M.S. (Geophysics)  
 Peking University, Beijing, China   
