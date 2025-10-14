@@ -15,11 +15,17 @@ Currently, I am a Post-doc in California Institute of Technology, working with [
 * * *
 ## News and Events  
 
+**[2025.09] First time to Japan!**  
+Condensed experience in ERI and Kochi city. Sweet to meet my old friends.  
+
+**[2025.07] Always good to be back to China**  
+Nice visit to Shenyang during the [Haicheng Symposium](https://www.ief.ac.cn/hceq50/) and Enshi, Hubei during the [AI Seismology Symposium](https://www.ief.ac.cn/zhxw/info/2025/94690.html)  
+
 **[2025.05] Our AI-PAL and Quasi-repeater Works being Recognized by Japanese Researchers!**  
 I got invited to the International Joint Workshop on [Slow-to-Fast Earthquakes 2025](https://sites.google.com/view/slow2fast-earthquake-workshop/)  
 My quasi-repeater catalog in Turkey is included in the [Slow Earthquake Database](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/) by "Science of Slow-to-Fast Earthquake"  
 
-**[2025.04] Our [AGU Advances paper](https://doi.org/10.1029/2024AV001457) is selected as EOS Research Spotlight**  
+**[2025.04] Our [AGU Advances paper](https://doi.org/10.1029/2024AV001457) is selected as [EOS Research Spotlight](https://eos.org/research-spotlights/turkiye-syria-temblors-reveal-missing-piece-in-earthquake-physics)**  
 We found high-stress-drop SSE in the 2023 Turkey sequence. Reporting such special signals should not be an end, and more investigations on its mechanisms are needed in the future.  
 
 **[2025.02-03] Papers published: AI-PAL, Quasi-repeaters**  
