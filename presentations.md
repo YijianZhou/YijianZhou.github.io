@@ -36,11 +36,11 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ### 2025  
 - **AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection**  
     [Keynote speaker](https://sites.google.com/view/slow2fast-earthquake-workshop/2025/plenary-sessions-2025?authuser=0) of the International Joint Workshop on Slow-to-Fast Earthquakes 2025, Kochi city, Japan (2025/09)  
-    Also at International Symposium on 1975 Haicheng Earthquakes, Shenyang, China (2025/07)  
+    & International Symposium on 1975 Haicheng Earthquakes, Shenyang, China (2025/07)  
     
 - **Special Seismic and Aseismic Slip Events Observed Along the East Anatolian Fault Zone (EAFZ)**  
     Invited by Earthquake Research Institute, the University of Tokyo, Japan (2025/09)  
-    Also at the Institute of Geology, CEA, Beijing, China (2025/07)
+    & the Institute of Geology, CEA, Beijing, China (2025/07)
 
 - **How Not to be Fooled by Seismicity Depth Distribution: Lessons from the 2023 Kahramanmaraş (SE Turkey) aftershock sequence**  
     Invited by the 6th Symposium of AI in Seismology, Enshi, Hubei, China (2025/07)
@@ -51,7 +51,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
     
 - **Localized for Generalized: a Novel Deep Learning Workflow for Constructing Long-Term Seismic Catalogs**  
     Invited by Southern University of Science and Technology, Shenzhen, China (2024/07)  
-    Also at the Institute of Geophysics, CEA, Beijing, China (2024/07)  
+    & the Institute of Geophysics, CEA, Beijing, China (2024/07)  
 
 - **Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow**  
     Invited by Caltech Brownbag Seminar, CA, USA (2024/05)  
@@ -84,7 +84,7 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 ### 2019
 - **Hybrid earthquake detection and phase picking algorithm using convolutional and recurrent neural networks ([paper link](https://doi.org/10.1785/0220180319))**  
     Invited by Institute of Geophysics, CEA, Beijing, China (2019/10)  
-    & at the 1st Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2019/07)  
+    & the 1st Symposium of AI in Seismology, Ocean University of China, Qingdao, China (2019/07)  
 
 ### 2018
 - **AI-based earthquake detection and phase picking**  
