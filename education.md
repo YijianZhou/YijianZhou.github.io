@@ -24,7 +24,7 @@ Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China
 ### 2024/10-now, Post-doc  
 California Institute of Technology, California  
 Supervisor: Jean-Philippe Avouac  
-Projects: Observation and modelling of induced seismicity  
+Projects: Observation, statistics, and physical modelling of induced seismicity  
 
 ### 2023/07-2023/09, Graduate Student Intern  
 Lawrence Livermore National Laboratory, Livermore, California  
@@ -44,16 +44,21 @@ Projects: Developing AI earthquake detection method
 * * *
 ## AWARDS
 
+### 2025  
+Outstanding Presentation in the Symposium of AI Seismology  
+
 ### 2024  
 Chinese Government Award for Outstanding Self-financed Students Abroad  
-SSA Annual Meeting Student Presentation Award  
+SSA Annual Meeting Student Presentation Award ([see announcenment](https://www.seismosoc.org/awards/student-awards/))  
 Dissertation Completion Fellowship Award (UC Riverside)  
-Outstanding Student Presentation in AI Seismology Seminar  
-SCEC Research Travel Award
+Outstanding Presentation in the Symposium of AI Seismology  
+Outstanding Reviewer of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/51)  
+SCEC Research Travel Award  
 
 ### 2023  
 Roland Blanchard Award (UC Riverside)  
-SCEC Research Travel Award
+Outstanding Paper of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/39)  
+SCEC Research Travel Award  
 
 ### 2022  
 Shawn Biehler Distinguished Graduate Award (UC Riverside)  
@@ -63,7 +68,7 @@ Outstanding Presentation (China Seismic Experimental Site Conference)
 Outstanding Graduates (Peking University)  
 
 ### 2019  
-TIEJIN Scholarship (Peking University)  
+TEIJIN Scholarship (Peking University)  
 Special Graduate Student Scholarship (Peking University)  
 Excellent Graduate Student Award (Peking University)  
 
@@ -88,36 +93,38 @@ T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017
 
 * * *
 ## FIELD EXPERIENCE  
+Sanbagawa Metamorphic Belt, "Workshop on Slow-to-Fast Earthquakes" field trip (2025/09)  
+San Andreas Fault & Owens Valley, "Ge 121b. Advanced Field Geology" field trip (2024/11)  
 Death Valley, "GEO 116. Structural Geology" field trip (2023/03)  
-Anninghe Fault Zone, 100 short-period instruments (2020/07)  
-Ningxia, China, 24 broad-band instruments (2018/10)  
-Xi'an, North China craton, 21 broad-band instruments (2017/09 & 2018/09)  
-Jiuzhaigou aftershock monitoring, 100 short-period instruments (2017/10 & 2018/01)  
-Xiaojiang Fault Zone, 20 broad-band instruments (2016/09)  
+Anninghe Fault Zone, 100 short-period seismometers (2020/07)  
+Ningxia, China, 24 broad-band seismometers (2018/10)  
+Xi'an, North China craton, 21 broad-band seismometers (2017/09 & 2018/09)  
+Jiuzhaigou aftershock monitoring, 100 short-period seismometers (2017/10 & 2018/01)  
+Xiaojiang Fault Zone, 20 broad-band seismometers (2016/09)  
 
 * * *
 ## SERVICES  
 * I serve as an early career representative on the AGU Seismology section executive committee (2024-2026). 
 * I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
 * I serve as volunteer in the Education Outreach Program (GEOP) of the EPS department, UCR, including ShakeOut in UCR campus and “Night of Art and Innovation” (2021-2022), “Classroom presentation on Earthquakes” in Camino Real elementary school (2022)
-* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023)
+* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023-2024)
 * I serve as reviewer for multiple journals, including:  
-*Communications Earth & Environment*  
 *Journal of Geophysical Research: Solid Earth*  
-*Geophysical Research Letters*  
 *Earth and Planetary Science Letters*  
+*Geophysical Research Letters*  
+*Communications Earth & Environment*  
 *Seismological Research Letters*  
 *Geophysical Journal International*  
-*Tectonophysics*  
-*Geophysical Journal International*  
 *Bulletin of the Seismological Society of America*  
+*Tectonophysics*  
 *Science China – Earth Science*  
-*Seismica*  
+*Pure and Applied Geophysics*  
 *Scientific Reports*  
-*Earth Sciences*  
+*Seismica*  
+*Earth Sciences* 
+*Earthquake Research Advances*  
 *Artificial Intelligence in Geosciences*  
 *Chinese Journal of Geophysics (in Chinese)*  
-*Earthquake Research Advances*  
 *Journal of African Earth Sciences*  
 *Geoscience and Remote Sensing Letters*  
 *Earthquake Research in China (in Chinese)*  
