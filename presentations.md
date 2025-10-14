@@ -33,10 +33,29 @@ Zhang, H., **Y. Zhou**, L. Wang, & S. Zhou (2019/12, oral). CPPC: A New Method t
 * * *
 ## INVITED TALKS
 
+### 2025  
+- **AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection**  
+    [Keynote speaker](https://sites.google.com/view/slow2fast-earthquake-workshop/2025/plenary-sessions-2025?authuser=0) of the International Joint Workshop on Slow-to-Fast Earthquakes 2025, Kochi city, Japan (2025/09)  
+    Also at International Symposium on 1975 Haicheng Earthquakes, Shenyang, China (2025/07)  
+    
+- **Special Seismic and Aseismic Slip Events Observed Along the East Anatolian Fault Zone (EAFZ)**  
+    Invited by Earthquake Research Institute, the University of Tokyo, Japan (2025/09)  
+    Also at the Institute of Geology, CEA, Beijing, China (2025/07)
+
+- **How Not to be Fooled by Seismicity Depth Distribution: Lessons from the 2023 Kahramanmaraş (SE Turkey) aftershock sequence**  
+    Invited by the 6th Symposium of AI in Seismology, Enshi, Hubei, China (2025/07)
+
 ### 2024  
+- **Abundant Non-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey)**  
+    Invited by University of Southern California, Lithosphere Dynamics Seminar, CA, USA (2024/10)  
+    
+- **Localized for Generalized: a Novel Deep Learning Workflow for Constructing Long-Term Seismic Catalogs**  
+    Invited by Southern University of Science and Technology, Shenzhen, China (2024/07)  
+    Also at the Institute of Geophysics, CEA, Beijing, China (2024/07)  
+
 - **Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow**  
     Invited by Caltech Brownbag Seminar, CA, USA (2024/05)  
-    
+
 ### 2023  
 - **Seismological Characterization of Large Earthquakes and Fault Zones: on the 2023 Türkiye & 2008-2019 Ridgecrest-Coso**  
     Invited by PKU, Institute of Geophysics, CEA, and China Earthquake Network Center (CENC) (2023/06)
