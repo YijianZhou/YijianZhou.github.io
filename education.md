@@ -51,8 +51,8 @@ Outstanding Presentation in the Symposium of AI Seismology
 Chinese Government Award for Outstanding Self-financed Students Abroad  
 SSA Annual Meeting Student Presentation Award ([see announcenment](https://www.seismosoc.org/awards/student-awards/))  
 Dissertation Completion Fellowship Award (UC Riverside)  
-Outstanding Presentation in the Symposium of AI Seismology  
 Outstanding Reviewer of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/51)  
+Outstanding Presentation in the Symposium of AI Seismology  
 SCEC Research Travel Award  
 
 ### 2023  
