@@ -9,6 +9,8 @@ layout: default
 
 Luo, H., **Y. Zhou**, Z. Zhao, M. Köküm, T. Wang<sup>`*`</sup>, H. Yue, Z. Wang, N. Hu, A. Ghosh, X. Song, and R. Bürgmann (2025). A New Fault Slip Mode Unveiled in the Regional Dynamic Triggering of the 2023 Turkey Kahramanmaraş Earthquake Sequence. *AGU Advances*; doi: [10.1029/2024AV001457](https://doi.org/10.1029/2024AV001457)  
 
+Wang, L., **Y. Zhou**<sup>`*`</sup>, H. Meng<sup>`*`</sup>, W. Pei, & S. Zhou (2025). P-Wave First-Motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) With Applications to Southeastern Tibetan Plateau. *Journal of Geophysical Research: Solid Earth*; 131 (1). doi: [10.1029/2025JB032118](https://doi.org/10.1029/2025JB032118)  
+
 Wang, Z., C. Ren<sup>`†`</sup>, L. Wang<sup>`†`</sup>, L. Chang<sup>`*`</sup>, and **Zhou, Y.**<sup>`*`</sup> (2025). Source Complexity and Faulting Heterogeneity of the 2024 M<sub>w</sub> 4.8 Zhongdian Earthquake, Yunnan, China. *Seismological Research Letters*; doi: [10.1785/0220250259](https://doi.org/10.1785/0220250259)  
 
 Ding, H.<sup>`†`</sup>, **Y. Zhou**<sup>`†`</sup><sup>`*`</sup>, Z. Ge<sup>`*`</sup>, T. Taymaz, A. Ghosh, ... & X. Song<sup>`*`</sup> (2023). High-Resolution Seismicity Imaging and Early Aftershocks Migration of the 2023 Kahramanmaraş (SE Türkiye) M<sub>w</sub> 7.9 & 7.8 Earthquake Doublet. *Earthquake Science*; doi: [10.1016/j.eqs.2023.06.002](https://doi.org/10.1016/j.eqs.2023.06.002)  
