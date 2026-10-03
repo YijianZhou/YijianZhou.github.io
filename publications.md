@@ -3,9 +3,9 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS  
 
-Wang, B., B. Wu<sup>`*`</sup>, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131(7). doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
+Wang, B., B. Wu<sup>`*`</sup>, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the Recurrence Time–Moment Relation of Global Repeating Earthquakes: A Scattered Data Cloud Bounded by Crack-model Physics. *Journal of Geophysical Research: Solid Earth*; 131(7). doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
 
-Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Seismological constraints on present-day oblique-normal faulting along the Deqin-Zhongdian-Daju fault system. *Tectonophysics*; 231219. doi: [10.1016/j.tecto.2026.231219](https://doi.org/10.1016/j.tecto.2026.231219)  
+Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Seismological Constraints on Present-day Oblique-Normal Faulting Along the Deqin-Zhongdian-Daju Fault System. *Tectonophysics*; 231219. doi: [10.1016/j.tecto.2026.231219](https://doi.org/10.1016/j.tecto.2026.231219)  
 
 **Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2025). AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection. *Journal of Geophysical Research: Solid Earth*; doi: [10.1029/2025JB031294](https://doi.org/10.1029/2025JB031294)  
 
