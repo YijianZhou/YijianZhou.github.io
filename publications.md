@@ -3,6 +3,10 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS  
 
+Wang, B., B. Wu, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131. doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
+
+Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Seismological constraints on present-day oblique-normal faulting along the Deqin-Zhongdian-Daju fault system. *Tectonophysics*; 231219. doi: [10.1016/j.tecto.2026.231219](https://doi.org/10.1016/j.tecto.2026.231219)  
+
 **Zhou, Y.**<sup>`*`</sup>, H. Ding, A. Ghosh, & Z. Ge (2025). AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection. *Journal of Geophysical Research: Solid Earth*; doi: [10.1029/2025JB031294](https://doi.org/10.1029/2025JB031294)  
 
 **Zhou, Y.**<sup>`*`</sup> and A. Ghosh (2025). Abundant Quasi-Repeating Earthquakes Occurring Within Repeater Sequences on the Erkenek-Pütürge Fault (SE Turkey). *Geophysical Research Letters*; doi: [10.1029/2024GL114367](https://doi.org/10.1029/2024GL114367)  
