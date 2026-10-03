@@ -3,7 +3,7 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS  
 
-Wang, B., B. Wu, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131. doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
+Wang, B., B. Wu, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131(7). doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
 
 Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Seismological constraints on present-day oblique-normal faulting along the Deqin-Zhongdian-Daju fault system. *Tectonophysics*; 231219. doi: [10.1016/j.tecto.2026.231219](https://doi.org/10.1016/j.tecto.2026.231219)  
 
@@ -13,7 +13,7 @@ Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Sei
 
 Luo, H., **Y. Zhou**, Z. Zhao, M. Köküm, T. Wang<sup>`*`</sup>, H. Yue, Z. Wang, N. Hu, A. Ghosh, X. Song, & R. Bürgmann (2025). A New Fault Slip Mode Unveiled in the Regional Dynamic Triggering of the 2023 Turkey Kahramanmaraş Earthquake Sequence. *AGU Advances*; doi: [10.1029/2024AV001457](https://doi.org/10.1029/2024AV001457)  
 
-Wang, L., **Y. Zhou**<sup>`*`</sup>, H. Meng<sup>`*`</sup>, W. Pei, & S. Zhou (2025). P-Wave First-Motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) With Applications to Southeastern Tibetan Plateau. *Journal of Geophysical Research: Solid Earth*; 131 (1). doi: [10.1029/2025JB032118](https://doi.org/10.1029/2025JB032118)  
+Wang, L., **Y. Zhou**<sup>`*`</sup>, H. Meng<sup>`*`</sup>, W. Pei, & S. Zhou (2025). P-Wave First-Motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) With Applications to Southeastern Tibetan Plateau. *Journal of Geophysical Research: Solid Earth*; 131(1). doi: [10.1029/2025JB032118](https://doi.org/10.1029/2025JB032118)  
 
 Wang, Z., C. Ren<sup>`†`</sup>, L. Wang<sup>`†`</sup>, L. Chang<sup>`*`</sup>, & **Y. Zhou**<sup>`*`</sup> (2025). Source Complexity and Faulting Heterogeneity of the 2024 M<sub>w</sub> 4.8 Zhongdian Earthquake, Yunnan, China. *Seismological Research Letters*; doi: [10.1785/0220250259](https://doi.org/10.1785/0220250259)  
 
@@ -21,7 +21,7 @@ Ding, H.<sup>`†`</sup>, **Y. Zhou**<sup>`†`</sup><sup>`*`</sup>, Z. Ge<sup>`
 
 Zhang, L., **Y. Zhou**<sup>`*`</sup>, X. Zhang, A. Zhu, B. Li, S. Wang, ... & L. Fang<sup>`*`</sup> (2023). 2022 M<sub>w</sub> 6.6 Luding, China, Earthquake: A Strong Continental Event Illuminating the Moxi Seismic Gap. *Seismological Research Letters*; 94 (5): 2129–2142. doi: [10.1785/0220220383](https://doi.org/10.1785/0220220383)  
 
-Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; 234 (2): 1157-1167. doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
+Wang, L., **Y. Zhou**, S. Zhou<sup>`*`</sup>, & H. Zhang (2023). Detection of Fault Zone Head Waves and the Fault Interface Imaging in the Xianshuihe-Anninghe Fault Zone (Eastern Tibetan Plateau). *Geophysical Journal International*; 234(2): 1157-1167. doi: [10.1093/gji/ggad131](https://doi.org/10.1093/gji/ggad131)  
 
 **Zhou, Y.**<sup>`*`</sup>, C. Ren, A. Ghosh, H. Meng, L. Fang<sup>`*`</sup>, H. Yue, et al. (2022). Seismological Characterization of the 2021 Yangbi Foreshock-Mainshock Sequence, Yunnan, China: More than a Triggered Cascade. *Journal of Geophysical Research: Solid Earth*; 127(8). doi: [10.1029/2022JB024534](https://doi.org/10.1029/2022JB024534)  
 
