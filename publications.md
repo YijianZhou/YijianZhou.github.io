@@ -3,7 +3,7 @@ layout: default
 ---
 ### SELECTED PUBLICATIONS  
 
-Wang, B., B. Wu, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131(7). doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
+Wang, B., B. Wu<sup>`*`</sup>, & **Y. Zhou**<sup>`*`</sup> (2026). Reinterpreting the recurrence time–moment relation of global repeating earthquakes: A scattered data cloud bounded by crack-model physics. *Journal of Geophysical Research: Solid Earth*; 131(7). doi: [10.1029/2025JB033433](https://doi.org/10.1029/2025JB033433)  
 
 Wang, Z., **Y. Zhou**<sup>`*`</sup>, Y. Li, & L. Chang<sup>`*`</sup> (2026). Seismological constraints on present-day oblique-normal faulting along the Deqin-Zhongdian-Daju fault system. *Tectonophysics*; 231219. doi: [10.1016/j.tecto.2026.231219](https://doi.org/10.1016/j.tecto.2026.231219)  
 
