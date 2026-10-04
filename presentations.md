@@ -47,14 +47,14 @@ Luo, H., **Y. Zhou**, Z. Zhao, T. Wang, H. Yue, X. Song, & R. Bürgmann (2025/12
 ## INVITED TALKS
 
 ### 2026  
-- **BSL Seminar**  
-    Invited by UC Berkeley, USA (2026/10)  
+- **Causal Mechanisms of Induced Earthquakes in the Delaware Basin Revealed by Cluster-Level Microseismicity Characterization**  
+    Invited by UC Berkeley, BSL Seminar, CA, USA (2026/10)  
 
 - **Workshop for Large Earthquake Scientific Response**  
     Invited by USGS-Caltech, USA (2026/10)  
 
-- **ANSS Seminar Series**  
-    Online (2026/08)  
+- **Toward an AI-Enhanced Near-Real-Time Earthquake Cataloging System for the Southern California Seismic Network**  
+    Invited by ANSS Seminar Series, online (2026/08)  
 
 ### 2025  
 - **AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection**  
