@@ -54,6 +54,9 @@ Luo, H., **Y. Zhou**, Z. Zhao, T. Wang, H. Yue, X. Song, & R. Bürgmann (2025/12
     Invited by Workshop for Large Earthquake Scientific Response, USGS-Caltech, USA (2026/10)  
     & ANSS Seminar Series, online (2026/08)  
 
+- **Special Seismic and Aseismic Slip Events Observed Along the East Anatolian Fault Zone (EAFZ)**  
+    Invited by School of Earth Sciences and Engineering, Nanjing University, China (2026/02)  
+
 ### 2025  
 - **AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection**  
     [Keynote speaker](https://sites.google.com/view/slow2fast-earthquake-workshop/2025/plenary-sessions-2025?authuser=0) of the International Joint Workshop on Slow-to-Fast Earthquakes 2025, Kochi city, Japan (2025/09)  
