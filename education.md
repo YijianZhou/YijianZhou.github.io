@@ -3,32 +3,32 @@ layout: default
 ---
 ## EDUCATION
 
-### 2020/09-2024/09, Ph.D. (Geophysics)  
+### 2020/09-2024/09, Ph.D. (Earth & Planetary Sciences)  
 University of California, Riverside  
 Advisor: Abhijit Ghosh  
 Dissertation: Connecting the Pre-, Co-, and Post-Seismic Fault Behavior with High-Resolution Seismic Catalog, Statistics, and Source Spectra Analysis [[PDF](https://escholarship.org/uc/item/5w82803g)]  
 
-### 2017/09-2020/07, M.S. (Geophysics)  
+### 2017/09-2020/07, M.S. (Solid Earth Geophysics)  
 Peking University, Beijing, China   
-Advisor: Shiyong Zhou & Han Yue  
-Thesis: Earthquake Detection Method and Fault Zone Imaging base on Seismicity  
+Advisors: Shiyong Zhou & Han Yue  
+Thesis: Earthquake Detection Method and Fault Zone Imaging Based on Seismicity  
 
 ### 2013/09-2017/07, B.S. (Geophysics)  
 Peking University, Beijing, China  
 Advisor: Shiyong Zhou  
-Thesis: Detection of Micro-seismicity in Xiaojiang Fault Zone, Yunnan, China  
+Thesis: Detection of Microseismicity in Xiaojiang Fault Zone, Yunnan, China  
 
 * * *
 ## WORKING EXPERIENCE  
 
 ### 2024/10-now, Post-doc  
 California Institute of Technology, California  
-Supervisor: Jean-Philippe Avouac  
+Advisor: Jean-Philippe Avouac  
 Projects: Observation, statistics, and physical modelling of induced seismicity  
 
 ### 2023/07-2023/09, Graduate Student Intern  
 Lawrence Livermore National Laboratory, Livermore, California  
-Collaborator: Qingkai Kong & Arben Pitarka  
+Advisors: Qingkai Kong & Arben Pitarka  
 Projects: Comparative studies on AI phase pickers  
 
 ### 2020/08-2021/08, Research Assistant  
@@ -38,7 +38,7 @@ Projects: Seismic data processing and mentoring
 
 ### 2018/06-2018/08, Research Visit  
 Berkeley Seismological Laboratory, UC Berkeley, California  
-Collaborator: Qingkai Kong & Richard Allen  
+Collaborators: Qingkai Kong & Richard Allen  
 Projects: Developing AI earthquake detection method  
 
 * * *
@@ -56,7 +56,7 @@ Outstanding Presentation in the Symposium of AI Seismology
 SCEC Research Travel Award  
 
 ### 2023  
-Roland Blanchard Award (UC Riverside)  
+Roland Blanchard Fund Award (UC Riverside)  
 Outstanding Paper of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/39)  
 SCEC Research Travel Award  
 
@@ -92,10 +92,17 @@ T.A., Undergraduate, Introduction of Earthquakes (500 students), PKU Spring 2018
 T.A., Undergraduate, Field Training on Seismology (20 students), PKU Summer 2017-2019  
 
 * * *
+## MENTORING EXPERIENCE  
+I started mentoring students during my Ph.D. Students that I have provided hands-on supervision include:  
+Longtan Wang and Hongyang Ding from Peking University, Beijing, China  
+Zhenyu Wang, Long Zhang, Rui Zhang, and Liping Fan from Institute of Geophysics, CEA, Beijing, China  
+Jun Li from The Second Monitoring and Application Center, CEA, Xi'an, China  
+
+* * *
 ## FIELD EXPERIENCE  
 Sanbagawa Metamorphic Belt, "Workshop on Slow-to-Fast Earthquakes" field trip (2025/09)  
-San Andreas Fault & Owens Valley, "Ge 121b. Advanced Field Geology" field trip (2024/11)  
-Death Valley, "GEO 116. Structural Geology" field trip (2023/03)  
+San Andreas Fault & Owens Valley, "Ge 121b. Advanced Field Geology" field trip (Caltech) (2024/11)  
+Death Valley, "GEO 116. Structural Geology" field trip (UCR) (2023/03)  
 Anninghe Fault Zone, 100 short-period seismometers (2020/07)  
 Ningxia, China, 24 broad-band seismometers (2018/10)  
 Xi'an, North China craton, 21 broad-band seismometers (2017/09 & 2018/09)  
@@ -105,10 +112,11 @@ Xiaojiang Fault Zone, 20 broad-band seismometers (2016/09)
 * * *
 ## SERVICES  
 * I serve as an early career representative on the AGU Seismology section executive committee (2024-2026). 
-* I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR.
+* I serve as an organizer for the Hewett Club Speaker Series of the EPS department, UCR (2022-2023).
 * I serve as volunteer in the Education Outreach Program (GEOP) of the EPS department, UCR, including ShakeOut in UCR campus and “Night of Art and Innovation” (2021-2022), “Classroom presentation on Earthquakes” in Camino Real elementary school (2022)
-* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023-2024)
-* I serve as reviewer for multiple journals, including:  
+* I serve as judge for Outstanding Student Presentation Awards (OSPA) of AGU Fall Meeting (2021 & 2023-2025)
+* I serve as reviewer for Outstanding Emerging Presenters (OEP) Program of AGU Fall Meeting (2026)
+* I serve as reviewer for multiple journals and >100 manuscripts, including:  
 *Journal of Geophysical Research: Solid Earth*  
 *Earth and Planetary Science Letters*  
 *Geophysical Research Letters*  
@@ -121,10 +129,11 @@ Xiaojiang Fault Zone, 20 broad-band seismometers (2016/09)
 *Pure and Applied Geophysics*  
 *Scientific Reports*  
 *Seismica*  
-*Earth Sciences* 
+*Earthquake Science*  
 *Earthquake Research Advances*  
 *Artificial Intelligence in Geosciences*  
 *Chinese Journal of Geophysics (in Chinese)*  
+*Journal of Asian Earth Sciences*  
 *Journal of African Earth Sciences*  
 *Geoscience and Remote Sensing Letters*  
 *Earthquake Research in China (in Chinese)*  

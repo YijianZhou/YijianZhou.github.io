@@ -3,13 +3,21 @@ layout: default
 ---
 ## SELECTED PRESENTATIONS  
 
+**Zhou, Y.**, T. Ryan, G. Tepp, R. Bhadha, E. Yu, Z. Ross, Z. Zhan, & A. Husker (2026/09 & 12). Toward an AI-Enhanced Near-Real-Time Earthquake Cataloging System for the Southern California Seismic Network. *SCEC Annual Meeting*, Palm Springs, CA, USA; *AGU Fall Meeting*, San Francisco, CA, USA  
+
+Ding, H., **Y. Zhou**, & Z. Ge (2025/12 & 2026/04 oral). How Not to be Fooled by Seismicity Depth Distribution: Lessons from the 2023 Kahramanmaraş (SE Turkey) aftershock sequence. *AGU Fall Meeting*, New Orleans, LA, USA; *SSA Annual Meeting*, Pasadena, CA, USA  
+
+Wang, L., **Y. Zhou**, H. Meng, W. Pei, & S. Zhou (2025/12). P-Wave First-Motion Polarity Determination Using Order Statistics and Entropy Theory (POSE) With Applications to Southeastern Tibetan Plateau. *AGU Fall Meeting*, New Orleans, LA, USA  
+
+Luo, H., **Y. Zhou**, Z. Zhao, T. Wang, H. Yue, X. Song, & R. Bürgmann (2025/12 & 2026/04 oral). A New Fault Slip Mode Unveiled in the Regional Dynamic Triggering of the 2023 Turkey Earthquake Sequence. *AGU Fall Meeting*, New Orleans, LA, USA; *SSA Annual Meeting*, Pasadena, CA, USA  
+
 **Zhou, Y.**, K. Sirorattanakul, Z. Fang, J. An, J. Nunn, & J. P. Avouac (2025/09). Spatiotemporal Clustering and Migration of Micro-seismicity in the Delaware Basin: Insights into the Causal Mechanisms of Induced Basement Earthquakes. *SCEC Annual Meeting*, Palm Springs, CA, USA  
 
 **Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2024/12, oral). Localized for Generalized: A Novel Deep Learning Workflow for the Construction of Long-Term Seismic Catalogs. *AGU Fall Meeting*, Washington, D.C., USA  
 
-**Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2024/04, oral). Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow. *SSA Annual Meeting*, Anchorage, AK, USA  
-
 **Zhou, Y.** & A. Ghosh (2024/09). Abundant Repeating Earthquakes with Non-repeatable Ruptures on the Erkenek-Pütürge Fault (SE Turkey). *SCEC Annual Meeting*, Palm Springs, CA, USA  
+
+**Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2024/04, oral). Resolving Long-Term Seismicity of the East Anatolian Fault Zone (EAFZ) with a Novel Deep Learning Workflow. *SSA Annual Meeting*, Anchorage, AK, USA (Student presentation award, [see announcement](https://www.seismosoc.org/awards/student-awards/))  
 
 **Zhou, Y.**, H. Ding, A. Ghosh, & Z. Ge (2023/12). Distinct Aftershock Patterns of the Dual Faults in the 2023 Kahramanmaraş (SE Türkiye) Earthquake Doublet Revealed by High-Resolution Seismic Catalogs. *AGU Fall Meeting*, San Francisco, CA, USA  
 
@@ -21,22 +29,32 @@ layout: default
 
 **Zhou, Y.**, A. Ghosh, H. Yue, L. Fang, & S. Zhou (2021/12, oral). An Early Aftershock Catalog of the 2019 Mw 7.1 Ridgecrest Earthquake: Application of an AI-based Detection and Location Architecture. *AGU Fall Meeting*, New Orleans, LA, USA  
 
-**Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 YangBi Earthquake Sequence, Yunnan, China: Not a Triggered Cascade. *SCEC Annual Meeting*, online  
+**Zhou, Y.**, A. Ghosh, L. Fang, H. Yue, S. Zhou, & Y. Su (2021/09). Foreshock Sequence of the 2021 Mw 6.1 Yangbi Earthquake Sequence, Yunnan, China: Not a Triggered Cascade. *SCEC Annual Meeting*, online  
 
-**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/08, 10 oral, & 12). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *SCEC Annual Meeting*, online; *Annual Meeting of Chinese Geoscience Union (CGU)*, Chongqing, China; *AGU Fall Meeting*, online  
+**Zhou, Y.**, H. Yue, S. Zhou, L. Zhao, Z. Yang, & Y. Yao (2020/12, 10 oral, & 08). Weak Off-fault Structures Revealed by Microseismicity along Xiaojiang Fault Zone (China) and Their Implications for Seismic Hazard Assessment. *AGU Fall Meeting*, online; *Annual Meeting of Chinese Geoscience Union (CGU)*, Chongqing, China; *SCEC Annual Meeting*, online  
 
 **Zhou, Y.** & S. Zhou (2019/10, oral). PAD: Phase-picking-and-Association-based Earthquake Detection Technique and the Application on Dense Array Observation in Xiaojiang Fault Zone, Yunnan, China. *Annual Meeting of CGU*, Beijing, China  
 
-**Zhou, Y.**, H. Yue, Q. Kong, & S. Zhou (2018/12). Seismic Event Detection of AsA Array using Recurrent Neural Network, *AGU Fall Meeting*, Washington D.C., USA  
+**Zhou, Y.**, H. Yue, Q. Kong, & S. Zhou (2018/12). Seismic Event Detection of AsA Array using Recurrent Neural Network. *AGU Fall Meeting*, Washington D.C., USA  
 
 **Zhou, Y.**, S. Zhou, H. Yue, & Q. Kong (2018/10, oral). CDRP: A Possible Deep Learning Solution for Seismicity Monitoring. *Annual Meeting of CGU*, Beijing, China  
 
 **Zhou, Y.**, H. Yue, & S. Zhou (2018/05, oral). The detection and phase picking for seismic signal with convolutional and recurrent neural network. *4th International Conference on Continental Earthquakes*, Chengdu, China  
 
-**Zhou, Y.**, Y. Huang, H. Yue, S. Zhou, S. An, & N. Yun (2017/12). CONEDEP: COnvolutional Neural network based Earthquake DEtection and Phase Picking. *AGU Fall Meeting*, New Orleans, LA, USA  
+**Zhou, Y.**, Y. Huang, H. Yue, S. Zhou, S. An, & N. Yun (2017/12). CONEDEP: COnvolutional Neural network-based Earthquake DEtection and Phase Picking. *AGU Fall Meeting*, New Orleans, LA, USA  
 
 * * *
 ## INVITED TALKS
+
+### 2026  
+- **BSL Seminar**  
+    Invited by UC Berkeley, USA (2026/10)  
+
+- **Workshop for Large Earthquake Scientific Response**  
+    Invited by USGS-Caltech, USA (2026/10)  
+
+- **ANSS Seminar Series**  
+    Online (2026/08)  
 
 ### 2025  
 - **AI-PAL: Self-Supervised AI Phase Picking via Rule-based Algorithm for Generalized Earthquake Detection**  
