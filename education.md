@@ -48,8 +48,8 @@ Projects: Developing AI earthquake detection method
 
 ### 2025  
 Outstanding Presentation in the Symposium of AI Seismology  
-Outstanding Reviewer of the Year (*Earthquake Science*)  
-Outstanding Paper of the Year (*Earthquake Science*)  
+Outstanding Reviewer of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/59)  
+Outstanding Paper of the Year [*Earthquake Science*](https://www.equsci.org.cn/news/59)  
 
 ### 2024  
 Chinese Government Award for Outstanding Self-financed Students Abroad  
