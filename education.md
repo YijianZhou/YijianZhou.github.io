@@ -22,8 +22,9 @@ Thesis: Detection of Microseismicity in Xiaojiang Fault Zone, Yunnan, China
 ## WORKING EXPERIENCE  
 
 ### 2024/10-now, Postdoctoral Scholar  
-Division of Geological and Planetary Sciences, California Institute of Technology  
-[Resnick Postdoctoral Scholar](https://resnick.caltech.edu/people/resnick-scholars), Resnick Sustainability Institute  
+California Institute of Technology  
+Division of Geological and Planetary Sciences (GPS)  
+[Resnick Postdoctoral Scholar](https://resnick.caltech.edu/people/resnick-scholars), Resnick Sustainability Institute (RSI)  
 Advisor: Jean-Philippe Avouac  
 Projects: Observation, statistics, and physical modelling of induced seismicity  
 
