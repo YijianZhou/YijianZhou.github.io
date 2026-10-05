@@ -2,7 +2,7 @@
 
 I am a geoscientist working on seismicity, fault zone physics, and slow earthquakes. I develop open-sourced software for seismic data processing, please stay tunned on [my GitHub](https://github.com/YijianZhou). My recent research activities are posted on [Twitter](https://twitter.com/yijian_zhou), [Bluesky](https://bsky.app/profile/yijianzhou.bsky.social), [ResearchGate](https://www.researchgate.net/profile/Yijian-Zhou-3), and [Google Scholar](https://scholar.google.com/citations?user=JgxHkKgAAAAJ&hl=en)
 
-Currently, I am a postdoctoral scholar at Caltech in the [Division of Geological and Planetary Sciences (GPS)](https://www.gps.caltech.edu/people/yijian-zhou), where I work with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/) on [GMG projects](https://gmg.caltech.edu/). I am also a [Resnick Postdoctoral Scholar](https://resnick.caltech.edu/people/yijian-zhou) with Caltech's Resnick Sustainability Institute (RSI).
+Currently, I am a Postdoctoral Scholar Research Associate in Geology at Caltech, affiliated with the <a href="https://www.gps.caltech.edu/people/yijian-zhou" style="font-weight: normal;">Division of Geological and Planetary Sciences (GPS)</a> and the <a href="https://resnick.caltech.edu/people/yijian-zhou" style="font-weight: normal;">Resnick Sustainability Institute (RSI)</a>. I work with [Jean-Philippe Avouac](https://web.gps.caltech.edu/~avouac/) on [GMG projects](https://gmg.caltech.edu/).
 
 * * *
 ## More about me:  
