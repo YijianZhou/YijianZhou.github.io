@@ -23,8 +23,8 @@ Thesis: Detection of Microseismicity in Xiaojiang Fault Zone, Yunnan, China
 
 ### 2024/10-now, Postdoctoral Scholar  
 California Institute of Technology  
-Division of Geological and Planetary Sciences (GPS)  
-[Resnick Postdoctoral Scholar](https://resnick.caltech.edu/people/resnick-scholars), Resnick Sustainability Institute (RSI)  
+[Division of Geological and Planetary Sciences (GPS)](https://www.gps.caltech.edu/people/yijian-zhou)  
+[Resnick Postdoctoral Scholar](https://resnick.caltech.edu/people/yijian-zhou), Resnick Sustainability Institute (RSI)  
 Advisor: Jean-Philippe Avouac  
 Projects: Observation, statistics, and physical modelling of induced seismicity  
 
@@ -48,6 +48,8 @@ Projects: Developing AI earthquake detection method
 
 ### 2025  
 Outstanding Presentation in the Symposium of AI Seismology  
+Outstanding Reviewer of the Year (*Earthquake Science*)  
+Outstanding Paper of the Year (*Earthquake Science*)  
 
 ### 2024  
 Chinese Government Award for Outstanding Self-financed Students Abroad  
