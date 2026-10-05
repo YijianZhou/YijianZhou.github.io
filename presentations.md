@@ -53,6 +53,7 @@ Luo, H., **Y. Zhou**, Z. Zhao, T. Wang, H. Yue, X. Song, & R. Bürgmann (2025/12
 - **Toward an AI-Enhanced Near-Real-Time Earthquake Cataloging System for the Southern California Seismic Network**  
     Invited by Workshop for Large Earthquake Scientific Response, USGS-Caltech, USA (2026/10)  
     & ANSS Seminar Series, online (2026/08)  
+    ANSS talk recording on [YouTube](https://www.youtube.com/watch?v=ME5cZfKUcLk&list=PLlWy4gPCl4ltY0dSl3xRWLNUW1WN4nOpt&index=1)  
 
 - **Special Seismic and Aseismic Slip Events Observed Along the East Anatolian Fault Zone (EAFZ)**  
     Invited by School of Earth Sciences and Engineering, Nanjing University, China (2026/02)  
